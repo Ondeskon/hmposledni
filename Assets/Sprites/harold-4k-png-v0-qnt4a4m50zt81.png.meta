@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 2c2fe01fdcfaebf4d8ebfbf51c65150c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3999848648882905878
+    second: harold-4k-png-v0-qnt4a4m50zt81_0
+  - first:
+      213: -568370420365813752
+    second: harold-4k-png-v0-qnt4a4m50zt81_1
+  - first:
+      213: 4471897663002299785
+    second: harold-4k-png-v0-qnt4a4m50zt81_2
+  - first:
+      213: -160156352108254245
+    second: harold-4k-png-v0-qnt4a4m50zt81_3
+  - first:
+      213: 3387024970978470761
+    second: harold-4k-png-v0-qnt4a4m50zt81_4
+  - first:
+      213: 1855328837256462064
+    second: harold-4k-png-v0-qnt4a4m50zt81_5
+  - first:
+      213: 344898427032881082
+    second: harold-4k-png-v0-qnt4a4m50zt81_6
+  - first:
+      213: 3017273146733608415
+    second: harold-4k-png-v0-qnt4a4m50zt81_7
+  - first:
+      213: -6065925861912206281
+    second: harold-4k-png-v0-qnt4a4m50zt81_8
+  - first:
+      213: 7888840251403432922
+    second: harold-4k-png-v0-qnt4a4m50zt81_9
+  - first:
+      213: 3254018174868352075
+    second: harold-4k-png-v0-qnt4a4m50zt81_10
+  - first:
+      213: 8428733486353368357
+    second: harold-4k-png-v0-qnt4a4m50zt81_11
+  - first:
+      213: 559882607613328942
+    second: harold-4k-png-v0-qnt4a4m50zt81_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 985
+        width: 3362
+        height: 2953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613edff6721528730800000000000000
+      internalID: 3999848648882905878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_1
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 614
+        width: 229
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80891413d1ebc18f0800000000000000
+      internalID: -568370420365813752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_2
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 612
+        width: 223
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dc62b3b3f5f0e30800000000000000
+      internalID: 4471897663002299785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_3
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 615
+        width: 237
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba01475a207cdf0800000000000000
+      internalID: -160156352108254245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_4
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 616
+        width: 253
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bac801441210f20800000000000000
+      internalID: 3387024970978470761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_5
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 611
+        width: 224
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feb53e5fb37fb910800000000000000
+      internalID: 1855328837256462064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_6
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 609
+        width: 225
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7c2e2ca4359c400800000000000000
+      internalID: 344898427032881082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_7
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 615
+        width: 231
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddb165d0f18fd920800000000000000
+      internalID: 3017273146733608415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_8
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 213
+        width: 329
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7342ed6319081dba0800000000000000
+      internalID: -6065925861912206281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_9
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 231
+        width: 233
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad374ba696aca7d60800000000000000
+      internalID: 7888840251403432922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_10
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 239
+        width: 235
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c61bd1a48982d20800000000000000
+      internalID: 3254018174868352075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_11
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 236
+        width: 253
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5254880d270e8f470800000000000000
+      internalID: 8428733486353368357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harold-4k-png-v0-qnt4a4m50zt81_12
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 224
+        width: 235
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e36b6e34a15c700800000000000000
+      internalID: 559882607613328942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      harold-4k-png-v0-qnt4a4m50zt81_0: 3999848648882905878
+      harold-4k-png-v0-qnt4a4m50zt81_1: -568370420365813752
+      harold-4k-png-v0-qnt4a4m50zt81_10: 3254018174868352075
+      harold-4k-png-v0-qnt4a4m50zt81_11: 8428733486353368357
+      harold-4k-png-v0-qnt4a4m50zt81_12: 559882607613328942
+      harold-4k-png-v0-qnt4a4m50zt81_2: 4471897663002299785
+      harold-4k-png-v0-qnt4a4m50zt81_3: -160156352108254245
+      harold-4k-png-v0-qnt4a4m50zt81_4: 3387024970978470761
+      harold-4k-png-v0-qnt4a4m50zt81_5: 1855328837256462064
+      harold-4k-png-v0-qnt4a4m50zt81_6: 344898427032881082
+      harold-4k-png-v0-qnt4a4m50zt81_7: 3017273146733608415
+      harold-4k-png-v0-qnt4a4m50zt81_8: -6065925861912206281
+      harold-4k-png-v0-qnt4a4m50zt81_9: 7888840251403432922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

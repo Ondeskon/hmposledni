@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 1d1d3326f511e0948a2d415904997fc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5855577158648085646
+    second: Blood_sprite_effects-removebg-preview_0
+  - first:
+      213: -2850736844622723829
+    second: Blood_sprite_effects-removebg-preview_1
+  - first:
+      213: -4713780785366488990
+    second: Blood_sprite_effects-removebg-preview_2
+  - first:
+      213: -3993221600954358624
+    second: Blood_sprite_effects-removebg-preview_3
+  - first:
+      213: -4229240786737021299
+    second: Blood_sprite_effects-removebg-preview_4
+  - first:
+      213: -6482325181853826961
+    second: Blood_sprite_effects-removebg-preview_5
+  - first:
+      213: 5075425559711788586
+    second: Blood_sprite_effects-removebg-preview_6
+  - first:
+      213: 2803380487770385931
+    second: Blood_sprite_effects-removebg-preview_7
+  - first:
+      213: 933781940968221069
+    second: Blood_sprite_effects-removebg-preview_8
+  - first:
+      213: -3471719368456015063
+    second: Blood_sprite_effects-removebg-preview_9
+  - first:
+      213: 1701942304135239390
+    second: Blood_sprite_effects-removebg-preview_10
+  - first:
+      213: 9013989005110993870
+    second: Blood_sprite_effects-removebg-preview_11
+  - first:
+      213: -2378978543620813074
+    second: Blood_sprite_effects-removebg-preview_12
+  - first:
+      213: 7419424257206463941
+    second: Blood_sprite_effects-removebg-preview_13
+  - first:
+      213: 663160650791868713
+    second: Blood_sprite_effects-removebg-preview_14
+  - first:
+      213: 1172960921761007060
+    second: Blood_sprite_effects-removebg-preview_15
+  - first:
+      213: -7509566752405115815
+    second: Blood_sprite_effects-removebg-preview_16
+  - first:
+      213: -5276973970070564304
+    second: Blood_sprite_effects-removebg-preview_17
+  - first:
+      213: -1281244305926085739
+    second: Blood_sprite_effects-removebg-preview_18
+  - first:
+      213: -7955242936742023253
+    second: Blood_sprite_effects-removebg-preview_19
+  - first:
+      213: -3160351721809547140
+    second: Blood_sprite_effects-removebg-preview_20
+  - first:
+      213: -5792274446253416763
+    second: Blood_sprite_effects-removebg-preview_21
+  - first:
+      213: -2030592085341184469
+    second: Blood_sprite_effects-removebg-preview_22
+  - first:
+      213: -8157214295620541656
+    second: Blood_sprite_effects-removebg-preview_23
+  - first:
+      213: -169734549571211039
+    second: Blood_sprite_effects-removebg-preview_24
+  - first:
+      213: -6654978253361846675
+    second: Blood_sprite_effects-removebg-preview_25
+  - first:
+      213: -7665932178645334022
+    second: Blood_sprite_effects-removebg-preview_26
+  - first:
+      213: -4429830101905431848
+    second: Blood_sprite_effects-removebg-preview_27
+  - first:
+      213: 8589116713747752365
+    second: Blood_sprite_effects-removebg-preview_28
+  - first:
+      213: -2299399961437097128
+    second: Blood_sprite_effects-removebg-preview_29
+  - first:
+      213: 1681095829256369759
+    second: Blood_sprite_effects-removebg-preview_30
+  - first:
+      213: 1917008146233163790
+    second: Blood_sprite_effects-removebg-preview_31
+  - first:
+      213: 5366568113912494480
+    second: Blood_sprite_effects-removebg-preview_32
+  - first:
+      213: -8823671875838883929
+    second: Blood_sprite_effects-removebg-preview_33
+  - first:
+      213: 3902060890541194321
+    second: Blood_sprite_effects-removebg-preview_34
+  - first:
+      213: -2742263628533832650
+    second: Blood_sprite_effects-removebg-preview_35
+  - first:
+      213: -9160918800021776982
+    second: Blood_sprite_effects-removebg-preview_36
+  - first:
+      213: 8976372468202581315
+    second: Blood_sprite_effects-removebg-preview_37
+  - first:
+      213: 6648317416897439597
+    second: Blood_sprite_effects-removebg-preview_38
+  - first:
+      213: 9096352463403847521
+    second: Blood_sprite_effects-removebg-preview_39
+  - first:
+      213: 6302761766154973780
+    second: Blood_sprite_effects-removebg-preview_40
+  - first:
+      213: -2569864792717952046
+    second: Blood_sprite_effects-removebg-preview_41
+  - first:
+      213: -2284285301260132104
+    second: Blood_sprite_effects-removebg-preview_42
+  - first:
+      213: -8994802539005071215
+    second: Blood_sprite_effects-removebg-preview_43
+  - first:
+      213: 8742513821299254043
+    second: Blood_sprite_effects-removebg-preview_44
+  - first:
+      213: -7715233111840931908
+    second: Blood_sprite_effects-removebg-preview_45
+  - first:
+      213: -4903213768314784380
+    second: Blood_sprite_effects-removebg-preview_46
+  - first:
+      213: 7407629925942131139
+    second: Blood_sprite_effects-removebg-preview_47
+  - first:
+      213: 6626784452669495911
+    second: Blood_sprite_effects-removebg-preview_48
+  - first:
+      213: 506821259126427951
+    second: Blood_sprite_effects-removebg-preview_49
+  - first:
+      213: -6935438110042574072
+    second: Blood_sprite_effects-removebg-preview_50
+  - first:
+      213: 893004253565340944
+    second: Blood_sprite_effects-removebg-preview_51
+  - first:
+      213: 793020049862893206
+    second: Blood_sprite_effects-removebg-preview_52
+  - first:
+      213: -2136926155035341241
+    second: Blood_sprite_effects-removebg-preview_53
+  - first:
+      213: 7432430331593513455
+    second: Blood_sprite_effects-removebg-preview_54
+  - first:
+      213: 8637495952369784356
+    second: Blood_sprite_effects-removebg-preview_55
+  - first:
+      213: -8143019537894115184
+    second: Blood_sprite_effects-removebg-preview_56
+  - first:
+      213: 7167047190400506597
+    second: Blood_sprite_effects-removebg-preview_57
+  - first:
+      213: -3543644370361115648
+    second: Blood_sprite_effects-removebg-preview_58
+  - first:
+      213: -6333212327289559623
+    second: Blood_sprite_effects-removebg-preview_59
+  - first:
+      213: -6656720113438392561
+    second: Blood_sprite_effects-removebg-preview_60
+  - first:
+      213: -4773157123643086373
+    second: Blood_sprite_effects-removebg-preview_61
+  - first:
+      213: 1161765387408240921
+    second: Blood_sprite_effects-removebg-preview_62
+  - first:
+      213: -504597741815492115
+    second: Blood_sprite_effects-removebg-preview_63
+  - first:
+      213: 8246062539947378902
+    second: Blood_sprite_effects-removebg-preview_64
+  - first:
+      213: 6985551575288439451
+    second: Blood_sprite_effects-removebg-preview_65
+  - first:
+      213: -8136675830378656034
+    second: Blood_sprite_effects-removebg-preview_66
+  - first:
+      213: 3793308123813971066
+    second: Blood_sprite_effects-removebg-preview_67
+  - first:
+      213: 4938560137786206824
+    second: Blood_sprite_effects-removebg-preview_68
+  - first:
+      213: 4056916645301547072
+    second: Blood_sprite_effects-removebg-preview_69
+  - first:
+      213: 5424924357583159564
+    second: Blood_sprite_effects-removebg-preview_70
+  - first:
+      213: 9172111188946552589
+    second: Blood_sprite_effects-removebg-preview_71
+  - first:
+      213: -3957711077836156392
+    second: Blood_sprite_effects-removebg-preview_72
+  - first:
+      213: -8372781491997006222
+    second: Blood_sprite_effects-removebg-preview_73
+  - first:
+      213: 797572372709154046
+    second: Blood_sprite_effects-removebg-preview_74
+  - first:
+      213: -2063424544685332245
+    second: Blood_sprite_effects-removebg-preview_75
+  - first:
+      213: -8870653133725426040
+    second: Blood_sprite_effects-removebg-preview_76
+  - first:
+      213: -4595174968532185231
+    second: Blood_sprite_effects-removebg-preview_77
+  - first:
+      213: -181393320120729817
+    second: Blood_sprite_effects-removebg-preview_78
+  - first:
+      213: -8078054732758926671
+    second: Blood_sprite_effects-removebg-preview_79
+  - first:
+      213: 7704084454628147919
+    second: Blood_sprite_effects-removebg-preview_80
+  - first:
+      213: 7095508734356542096
+    second: Blood_sprite_effects-removebg-preview_81
+  - first:
+      213: -8129115009100263870
+    second: Blood_sprite_effects-removebg-preview_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 638
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273c3ef299fccbea0800000000000000
+      internalID: -5855577158648085646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 638
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05052491f52078d0800000000000000
+      internalID: -2850736844622723829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 638
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2682b23b959459eb0800000000000000
+      internalID: -4713780785366488990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 638
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4e2b56c1a3598c0800000000000000
+      internalID: -3993221600954358624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 637
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e32f479e7be45c0800000000000000
+      internalID: -4229240786737021299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 604
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60880987972a06a0800000000000000
+      internalID: -6482325181853826961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 604
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e2f82e7a88f6640800000000000000
+      internalID: 5075425559711788586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 604
+        width: 83
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ea0df53bb97e620800000000000000
+      internalID: 2803380487770385931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 604
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89e5195ab575fc00800000000000000
+      internalID: 933781940968221069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 598
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923f55bd0a9f1dfc0800000000000000
+      internalID: -3471719368456015063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 534
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6d03222838e9710800000000000000
+      internalID: 1701942304135239390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 528
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3eae2fd3f181d70800000000000000
+      internalID: 9013989005110993870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 524
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee84337e9b2cfed0800000000000000
+      internalID: -2378978543620813074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 518
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd25b85d0717f660800000000000000
+      internalID: 7419424257206463941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 513
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929577b2915043900800000000000000
+      internalID: 663160650791868713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 475
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5caf46eb1374010800000000000000
+      internalID: 1172960921761007060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 484
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c2fc973d8a8c790800000000000000
+      internalID: -7509566752405115815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 496
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03216f0022c64c6b0800000000000000
+      internalID: -5276973970070564304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 513
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593a8c2971b183ee0800000000000000
+      internalID: -1281244305926085739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 492
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf6e8d92bc499190800000000000000
+      internalID: -7955242936742023253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 451
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c707f307adc2424d0800000000000000
+      internalID: -3160351721809547140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 479
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce1e757415bd9fa0800000000000000
+      internalID: -5792274446253416763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 481
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ed485c143e1d3e0800000000000000
+      internalID: -2030592085341184469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 483
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823acc021d0cbce80800000000000000
+      internalID: -8157214295620541656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 480
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e072b2935bf4adf0800000000000000
+      internalID: -169734549571211039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 478
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ea64c984c4a3a0800000000000000
+      internalID: -6654978253361846675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 477
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7cb93ac432d9590800000000000000
+      internalID: -7665932178645334022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 477
+        width: 78
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d228981ef41682c0800000000000000
+      internalID: -4429830101905431848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 456
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da52e41e42ca23770800000000000000
+      internalID: 8589116713747752365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 458
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853bef5fae3e610e0800000000000000
+      internalID: -2299399961437097128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 450
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f567738ffb3745710800000000000000
+      internalID: 1681095829256369759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 460
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0002c390c49a9a10800000000000000
+      internalID: 1917008146233163790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 449
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09931bc2441e97a40800000000000000
+      internalID: 5366568113912494480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 458
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7c402cd250c8580800000000000000
+      internalID: -8823671875838883929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 395
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cf6a8b4b7e62630800000000000000
+      internalID: 3902060890541194321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 432
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63464cc42c581f9d0800000000000000
+      internalID: -2742263628533832650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 388
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5118453e0edd080800000000000000
+      internalID: -9160918800021776982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 382
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dafc2733b729c70800000000000000
+      internalID: 8976372468202581315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 427
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67e6346771934c50800000000000000
+      internalID: 6648317416897439597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 377
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f8fe4fe5cbc3e70800000000000000
+      internalID: 9096352463403847521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 371
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452b49fce68e77750800000000000000
+      internalID: 6302761766154973780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 405
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db73453691065cd0800000000000000
+      internalID: -2569864792717952046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 303
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f06eb40f969c40e0800000000000000
+      internalID: -2284285301260132104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 299
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19032dd4fba0c2380800000000000000
+      internalID: -8994802539005071215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 297
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b132c7a2006a35970800000000000000
+      internalID: 8742513821299254043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfb361ac5cfde490800000000000000
+      internalID: -7715233111840931908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 371
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485fac95e0944fbb0800000000000000
+      internalID: -4903213768314784380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 368
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9755b9b203dc660800000000000000
+      internalID: 7407629925942131139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 299
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a5278795117fb50800000000000000
+      internalID: 6626784452669495911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 293
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21d8daff37980700800000000000000
+      internalID: 506821259126427951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 246
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803b431d8cf50cf90800000000000000
+      internalID: -6935438110042574072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 246
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dcca423a6946c00800000000000000
+      internalID: 893004253565340944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 246
+        width: 70
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e17d3a88f510b00800000000000000
+      internalID: 793020049862893206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 244
+        width: 68
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e80e1ebfc1852e0800000000000000
+      internalID: -2136926155035341241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 242
+        width: 69
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe95874020c452760800000000000000
+      internalID: 7432430331593513455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 206
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42610e52ecc8ed770800000000000000
+      internalID: 8637495952369784356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 202
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09871c4bfde2efe80800000000000000
+      internalID: -8143019537894115184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 197
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea98407277767360800000000000000
+      internalID: 7167047190400506597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 194
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c105e583272dec0800000000000000
+      internalID: -3543644370361115648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 189
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5e7c071f8eb18a0800000000000000
+      internalID: -6333212327289559623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 171
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f7e4d53549e93a0800000000000000
+      internalID: -6656720113438392561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 158
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9e024a2e652cdb0800000000000000
+      internalID: -4773157123643086373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 166
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911ffcce67b6f1010800000000000000
+      internalID: 1161765387408240921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 177
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de19f9cf60f4ff8f0800000000000000
+      internalID: -504597741815492115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 169
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d80839c036ef6270800000000000000
+      internalID: 8246062539947378902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92ec3d852aa1f060800000000000000
+      internalID: 6985551575288439451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 147
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede06c53178b41f80800000000000000
+      internalID: -8136675830378656034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 146
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74098b04a984a430800000000000000
+      internalID: 3793308123813971066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 149
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aa6aa974a498440800000000000000
+      internalID: 4938560137786206824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 155
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0407196c1301d4830800000000000000
+      internalID: 4056916645301547072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 159
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01cb13f5f3394b40800000000000000
+      internalID: 5424924357583159564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 151
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d078b89c782e94f70800000000000000
+      internalID: 9172111188946552589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 76
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81292f95eb26319c0800000000000000
+      internalID: -3957711077836156392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 98
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276ad8b0897edcb80800000000000000
+      internalID: -8372781491997006222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 128
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc9ef5e8db811b00800000000000000
+      internalID: 797572372709154046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 103
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be865312f4e3d53e0800000000000000
+      internalID: -2063424544685332245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e179e39fb15e480800000000000000
+      internalID: -8870653133725426040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 77
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f4fdf56b8aa30c0800000000000000
+      internalID: -4595174968532185231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 80
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f33958cbf8b7df0800000000000000
+      internalID: -181393320120729817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 80
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1babdb9150cf4ef80800000000000000
+      internalID: -8078054732758926671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 97
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc248b55ef76aea60800000000000000
+      internalID: 7704084454628147919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 77
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d00ca99f487260800000000000000
+      internalID: 7095508734356542096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_sprite_effects-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 331
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e484818f49f2f80800000000000000
+      internalID: -8129115009100263870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blood_sprite_effects-removebg-preview_0: -5855577158648085646
+      Blood_sprite_effects-removebg-preview_1: -2850736844622723829
+      Blood_sprite_effects-removebg-preview_10: 1701942304135239390
+      Blood_sprite_effects-removebg-preview_11: 9013989005110993870
+      Blood_sprite_effects-removebg-preview_12: -2378978543620813074
+      Blood_sprite_effects-removebg-preview_13: 7419424257206463941
+      Blood_sprite_effects-removebg-preview_14: 663160650791868713
+      Blood_sprite_effects-removebg-preview_15: 1172960921761007060
+      Blood_sprite_effects-removebg-preview_16: -7509566752405115815
+      Blood_sprite_effects-removebg-preview_17: -5276973970070564304
+      Blood_sprite_effects-removebg-preview_18: -1281244305926085739
+      Blood_sprite_effects-removebg-preview_19: -7955242936742023253
+      Blood_sprite_effects-removebg-preview_2: -4713780785366488990
+      Blood_sprite_effects-removebg-preview_20: -3160351721809547140
+      Blood_sprite_effects-removebg-preview_21: -5792274446253416763
+      Blood_sprite_effects-removebg-preview_22: -2030592085341184469
+      Blood_sprite_effects-removebg-preview_23: -8157214295620541656
+      Blood_sprite_effects-removebg-preview_24: -169734549571211039
+      Blood_sprite_effects-removebg-preview_25: -6654978253361846675
+      Blood_sprite_effects-removebg-preview_26: -7665932178645334022
+      Blood_sprite_effects-removebg-preview_27: -4429830101905431848
+      Blood_sprite_effects-removebg-preview_28: 8589116713747752365
+      Blood_sprite_effects-removebg-preview_29: -2299399961437097128
+      Blood_sprite_effects-removebg-preview_3: -3993221600954358624
+      Blood_sprite_effects-removebg-preview_30: 1681095829256369759
+      Blood_sprite_effects-removebg-preview_31: 1917008146233163790
+      Blood_sprite_effects-removebg-preview_32: 5366568113912494480
+      Blood_sprite_effects-removebg-preview_33: -8823671875838883929
+      Blood_sprite_effects-removebg-preview_34: 3902060890541194321
+      Blood_sprite_effects-removebg-preview_35: -2742263628533832650
+      Blood_sprite_effects-removebg-preview_36: -9160918800021776982
+      Blood_sprite_effects-removebg-preview_37: 8976372468202581315
+      Blood_sprite_effects-removebg-preview_38: 6648317416897439597
+      Blood_sprite_effects-removebg-preview_39: 9096352463403847521
+      Blood_sprite_effects-removebg-preview_4: -4229240786737021299
+      Blood_sprite_effects-removebg-preview_40: 6302761766154973780
+      Blood_sprite_effects-removebg-preview_41: -2569864792717952046
+      Blood_sprite_effects-removebg-preview_42: -2284285301260132104
+      Blood_sprite_effects-removebg-preview_43: -8994802539005071215
+      Blood_sprite_effects-removebg-preview_44: 8742513821299254043
+      Blood_sprite_effects-removebg-preview_45: -7715233111840931908
+      Blood_sprite_effects-removebg-preview_46: -4903213768314784380
+      Blood_sprite_effects-removebg-preview_47: 7407629925942131139
+      Blood_sprite_effects-removebg-preview_48: 6626784452669495911
+      Blood_sprite_effects-removebg-preview_49: 506821259126427951
+      Blood_sprite_effects-removebg-preview_5: -6482325181853826961
+      Blood_sprite_effects-removebg-preview_50: -6935438110042574072
+      Blood_sprite_effects-removebg-preview_51: 893004253565340944
+      Blood_sprite_effects-removebg-preview_52: 793020049862893206
+      Blood_sprite_effects-removebg-preview_53: -2136926155035341241
+      Blood_sprite_effects-removebg-preview_54: 7432430331593513455
+      Blood_sprite_effects-removebg-preview_55: 8637495952369784356
+      Blood_sprite_effects-removebg-preview_56: -8143019537894115184
+      Blood_sprite_effects-removebg-preview_57: 7167047190400506597
+      Blood_sprite_effects-removebg-preview_58: -3543644370361115648
+      Blood_sprite_effects-removebg-preview_59: -6333212327289559623
+      Blood_sprite_effects-removebg-preview_6: 5075425559711788586
+      Blood_sprite_effects-removebg-preview_60: -6656720113438392561
+      Blood_sprite_effects-removebg-preview_61: -4773157123643086373
+      Blood_sprite_effects-removebg-preview_62: 1161765387408240921
+      Blood_sprite_effects-removebg-preview_63: -504597741815492115
+      Blood_sprite_effects-removebg-preview_64: 8246062539947378902
+      Blood_sprite_effects-removebg-preview_65: 6985551575288439451
+      Blood_sprite_effects-removebg-preview_66: -8136675830378656034
+      Blood_sprite_effects-removebg-preview_67: 3793308123813971066
+      Blood_sprite_effects-removebg-preview_68: 4938560137786206824
+      Blood_sprite_effects-removebg-preview_69: 4056916645301547072
+      Blood_sprite_effects-removebg-preview_7: 2803380487770385931
+      Blood_sprite_effects-removebg-preview_70: 5424924357583159564
+      Blood_sprite_effects-removebg-preview_71: 9172111188946552589
+      Blood_sprite_effects-removebg-preview_72: -3957711077836156392
+      Blood_sprite_effects-removebg-preview_73: -8372781491997006222
+      Blood_sprite_effects-removebg-preview_74: 797572372709154046
+      Blood_sprite_effects-removebg-preview_75: -2063424544685332245
+      Blood_sprite_effects-removebg-preview_76: -8870653133725426040
+      Blood_sprite_effects-removebg-preview_77: -4595174968532185231
+      Blood_sprite_effects-removebg-preview_78: -181393320120729817
+      Blood_sprite_effects-removebg-preview_79: -8078054732758926671
+      Blood_sprite_effects-removebg-preview_8: 933781940968221069
+      Blood_sprite_effects-removebg-preview_80: 7704084454628147919
+      Blood_sprite_effects-removebg-preview_81: 7095508734356542096
+      Blood_sprite_effects-removebg-preview_82: -8129115009100263870
+      Blood_sprite_effects-removebg-preview_9: -3471719368456015063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

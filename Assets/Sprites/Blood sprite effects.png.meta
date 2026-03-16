@@ -1,0 +1,1400 @@
+fileFormatVersion: 2
+guid: 29a9d6611bd8c7948b99f4f3d1319cc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3002613907300706164
+    second: Blood sprite effects_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood sprite effects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1293
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8891b15f829456d0800000000000000
+      internalID: -3002613907300706164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1293
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443795a8688519e46aac0df299a100dd
+      internalID: -646736795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1293
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a62504745b394087f208234c89eea
+      internalID: 378313452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1293
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b97be64dcf4e774fa5d99438ff5f7c7
+      internalID: -788442020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1293
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c15a590b7e85042bc297dc228dad76
+      internalID: -1346811291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1171
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62da2fb344d0fba45aad92ee53345dd7
+      internalID: 1234175726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1171
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c453b63c23afdbe4086e8b5cab37be33
+      internalID: -1578019804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1171
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73844882b1aeeb14a9fc20d962550ec8
+      internalID: 1427884836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1171
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9255597523835024b8758a1d827d9721
+      internalID: 829567384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1171
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7921a3aa32d7db4fbd3e3eaf63a793a
+      internalID: 112267575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1049
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fab16cee86a5f4691a47d07c3a9a0d
+      internalID: 2047618628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1049
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3159f4f051ac594fa4f80ed8fa94af4
+      internalID: -2019719824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1049
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5710eb3653782c043af984c7fed666a6
+      internalID: 338940804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1049
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78a5fe864f3f2343ba42373b069f681
+      internalID: 1858987644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1049
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc9c0f3ae435fa4d97f6e8dfa8b6861
+      internalID: 1375526392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfd117708ee1d6438fac32674ce12a2
+      internalID: -1360329193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 927
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a51a071bfc3ab942b41bb0273b60ff3
+      internalID: -577588277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 927
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a01dd9223a11e4478e3dfe63d10fbf7
+      internalID: -1105788382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 927
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a479439a44683df4c93bcab1e9ff390b
+      internalID: -677148748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_19
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 927
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e39825bf3f4ef4aa4056e5ee7356a0
+      internalID: 1539272047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3969ba4b2c04d704092bcafb69faabb3
+      internalID: -1969459909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 805
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e0a69883231a14abc5bbb04c842703
+      internalID: -374830612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 805
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34e703ddb1918d43910c1dad9c33eed
+      internalID: -848857973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 805
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71436390892614ba7dcb5d00bb2b25
+      internalID: 716471442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 805
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27efea70a54205147aaca579a7f6e3b9
+      internalID: 2051254641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcba47a54791864a8fa642dfcef3b65
+      internalID: -1323897288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 683
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8a6d6e364d9c458ea9c25e89ca998
+      internalID: -676695935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_27
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 683
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc68135905592140b01e3093d53d83a
+      internalID: 542570417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 683
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95708142f70c61b4eaf6648680f6f52f
+      internalID: 1811857892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 683
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaab628618738004ab8a194f452b4927
+      internalID: 870026765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0c25f42c6d5894c804e816e5763a9a
+      internalID: -778303136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 561
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c24cec2c2bbcc48946fa039f1e79ab
+      internalID: 1629936583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 561
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c8b99ef692554e982ba864e1b59b7
+      internalID: 621755731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 561
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac13c8556b9de21408ef32f285de9f65
+      internalID: -1612413492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 561
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc435e4b229506541b5b714acc7f56e9
+      internalID: 1091011616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba7aa172c9ab6b40b79df2edaa637de
+      internalID: 245114560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 439
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6aee5900d0d884d833e56e3c1b58cd
+      internalID: 538922351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 439
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c5a258f1245649afcb50907a25024
+      internalID: 340423732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 439
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef32fc32b7f9f43b2befd7e348ec3a
+      internalID: -1196079326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_39
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 439
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed64052c8d3d5c346b933da8058df659
+      internalID: 455539616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d5ea052d607de4d86035a885adddc4
+      internalID: 411829880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 317
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1cf32df4d6ee4c8e1bcdbf753b397
+      internalID: -1840479802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 317
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86584451a53b8354193fbf3869fbb0e0
+      internalID: -323833303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 317
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a144dae2257a4cbcda8360c3bb89d
+      internalID: -378783682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 317
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4277b0d3d3c883344a62824680355cd0
+      internalID: -335853131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299775ccb470a174987c12e42ed1b275
+      internalID: -2102263882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 195
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd23e58306c4a64ca10a3263358ce46
+      internalID: -1584336295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_47
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 195
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27c6ea1438f6124fb6c29c6877a7962
+      internalID: -938467048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_48
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 195
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def0a697c3837734ebb59d328da873f2
+      internalID: 1541303963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_49
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 195
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d78b5b730663a643a216fd7ba1818bf
+      internalID: 423641671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b71cf90bae7f418e8d2dbf8a7165f
+      internalID: 1924437606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_51
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 73
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e09dae253e2f4c933c218cf964114
+      internalID: 121192033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 73
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fc9390146d274448d91fcd47bc037a
+      internalID: 98487674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_53
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 73
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78efb65d8941aa946a3eceb94aba4969
+      internalID: -2087722263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood sprite effects_54
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 73
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2c01b694fe3e549b141cc27af25c77
+      internalID: 81200211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a4729033cd0b2c4429988182067110e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":142.0,"y":122.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Blood sprite effects_0: -3002613907300706164
+      Blood sprite effects_1: -646736795
+      Blood sprite effects_10: 2047618628
+      Blood sprite effects_11: -2019719824
+      Blood sprite effects_12: 338940804
+      Blood sprite effects_13: 1858987644
+      Blood sprite effects_14: 1375526392
+      Blood sprite effects_15: -1360329193
+      Blood sprite effects_16: -577588277
+      Blood sprite effects_17: -1105788382
+      Blood sprite effects_18: -677148748
+      Blood sprite effects_19: 1539272047
+      Blood sprite effects_2: 378313452
+      Blood sprite effects_20: -1969459909
+      Blood sprite effects_21: -374830612
+      Blood sprite effects_22: -848857973
+      Blood sprite effects_23: 716471442
+      Blood sprite effects_24: 2051254641
+      Blood sprite effects_25: -1323897288
+      Blood sprite effects_26: -676695935
+      Blood sprite effects_27: 542570417
+      Blood sprite effects_28: 1811857892
+      Blood sprite effects_29: 870026765
+      Blood sprite effects_3: -788442020
+      Blood sprite effects_30: -778303136
+      Blood sprite effects_31: 1629936583
+      Blood sprite effects_32: 621755731
+      Blood sprite effects_33: -1612413492
+      Blood sprite effects_34: 1091011616
+      Blood sprite effects_35: 245114560
+      Blood sprite effects_36: 538922351
+      Blood sprite effects_37: 340423732
+      Blood sprite effects_38: -1196079326
+      Blood sprite effects_39: 455539616
+      Blood sprite effects_4: -1346811291
+      Blood sprite effects_40: 411829880
+      Blood sprite effects_41: -1840479802
+      Blood sprite effects_42: -323833303
+      Blood sprite effects_43: -378783682
+      Blood sprite effects_44: -335853131
+      Blood sprite effects_45: -2102263882
+      Blood sprite effects_46: -1584336295
+      Blood sprite effects_47: -938467048
+      Blood sprite effects_48: 1541303963
+      Blood sprite effects_49: 423641671
+      Blood sprite effects_5: 1234175726
+      Blood sprite effects_50: 1924437606
+      Blood sprite effects_51: 121192033
+      Blood sprite effects_52: 98487674
+      Blood sprite effects_53: -2087722263
+      Blood sprite effects_54: 81200211
+      Blood sprite effects_6: -1578019804
+      Blood sprite effects_7: 1427884836
+      Blood sprite effects_8: 829567384
+      Blood sprite effects_9: 112267575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

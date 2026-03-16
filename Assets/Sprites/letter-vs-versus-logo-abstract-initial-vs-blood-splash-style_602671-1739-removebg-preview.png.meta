@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 451dc234e15befa4cbf461cd6d0561d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6810402594189181574
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_0
+  - first:
+      213: -5804725740307318888
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_1
+  - first:
+      213: 4818811799470813118
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_2
+  - first:
+      213: 497850112138786652
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_3
+  - first:
+      213: 117083128980898641
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_4
+  - first:
+      213: 6131957376705937332
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_5
+  - first:
+      213: 3709989164359845
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_6
+  - first:
+      213: 7015790342763008056
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_7
+  - first:
+      213: -1141536584208440762
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_8
+  - first:
+      213: 3137490281904470991
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_9
+  - first:
+      213: 7055238771897900415
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_10
+  - first:
+      213: -2212888284176758
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_11
+  - first:
+      213: 2016641154050063387
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_12
+  - first:
+      213: -8355651350787948251
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_13
+  - first:
+      213: 7819163597753084129
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_14
+  - first:
+      213: -6730371504915475620
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_15
+  - first:
+      213: 6155438140807527083
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_16
+  - first:
+      213: -2352858624430489310
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_17
+  - first:
+      213: -4424879839418690624
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_18
+  - first:
+      213: 7087633074566753739
+    second: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 278
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6828b0c8319638e50800000000000000
+      internalID: 6810402594189181574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 164
+        width: 171
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8977a66a1b8717fa0800000000000000
+      internalID: -5804725740307318888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 291
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf2beaeccbdfd240800000000000000
+      internalID: 4818811799470813118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 238
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57bb6d0a08b8e600800000000000000
+      internalID: 497850112138786652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 186
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15309184c76ff9100800000000000000
+      internalID: 117083128980898641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 230
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfb460eeb6191550800000000000000
+      internalID: 6131957376705937332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 210
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0234a273e2d0000800000000000000
+      internalID: 3709989164359845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 212
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830510f35281d5160800000000000000
+      internalID: 7015790342763008056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 188
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642a42856827820f0800000000000000
+      internalID: -1141536584208440762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 182
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbf72bc9ca9a8b20800000000000000
+      internalID: 3137490281904470991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 174
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d9984684e39e160800000000000000
+      internalID: 7055238771897900415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 162
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ed4ebc36328fff0800000000000000
+      internalID: -2212888284176758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 156
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c769ae17c8cfb10800000000000000
+      internalID: 2016641154050063387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 116
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5218549dd53ca0c80800000000000000
+      internalID: -8355651350787948251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 138
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8ecbc4ddf338c60800000000000000
+      internalID: 7819163597753084129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 103
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c531a1b76cae892a0800000000000000
+      internalID: -6730371504915475620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 106
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa39bb40628c6550800000000000000
+      internalID: 6155438140807527083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 112
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2214b1c0c87f85fd0800000000000000
+      internalID: -2352858624430489310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c359a5ea3ba792c0800000000000000
+      internalID: -4424879839418690624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd6cdbbab45c5260800000000000000
+      internalID: 7087633074566753739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_0: 6810402594189181574
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_1: -5804725740307318888
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_10: 7055238771897900415
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_11: -2212888284176758
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_12: 2016641154050063387
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_13: -8355651350787948251
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_14: 7819163597753084129
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_15: -6730371504915475620
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_16: 6155438140807527083
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_17: -2352858624430489310
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_18: -4424879839418690624
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_19: 7087633074566753739
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_2: 4818811799470813118
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_3: 497850112138786652
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_4: 117083128980898641
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_5: 6131957376705937332
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_6: 3709989164359845
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_7: 7015790342763008056
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_8: -1141536584208440762
+      letter-vs-versus-logo-abstract-initial-vs-blood-splash-style_602671-1739-removebg-preview_9: 3137490281904470991
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

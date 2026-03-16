@@ -1,0 +1,7127 @@
+fileFormatVersion: 2
+guid: 93c2993505836c7479ba4bdb79e7a2e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2475058551894615334
+    second: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625a8f7b3ac295220800000000000000
+      internalID: 2475058551894615334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1579ac278af771d4cba56bfbfa87c473
+      internalID: 601189638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160bfc0f8604c0642af45d493f45a8df
+      internalID: 280526708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb78841bfa3dcd84e985cb8a141e89b6
+      internalID: 585979019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0fbbdbd3a9bb445993f9528dea287b
+      internalID: 192839485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c326e2a0e68e844ab444b38a1ba3a47
+      internalID: 1434453158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d166d0663f8c3a94bb0ee1a5ea94ce57
+      internalID: -312879925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe73317524e2164b954ac25c0bc1123
+      internalID: -160711085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf8db2dfe57274197c97a49f79f9c3
+      internalID: -488097035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf753dba6e98d24a8db6fb13eae7084
+      internalID: 265930973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1197b3060fd3cc41b3cc680e204ee53
+      internalID: 1943593753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96146ff2862c604e9db15db7851a7ab
+      internalID: -934398287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f895451a497b340bfd35d3418781d3
+      internalID: 506617845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86a6faa3da2f874c9fcca85cf12e8f5
+      internalID: 940709487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caef2153f0c2ed74186cf9f30010d090
+      internalID: 1937865758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9099ccdcab0852d43a97169d7ead2206
+      internalID: -1821003705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a442ad7f85e4dd14484e65191c717232
+      internalID: 1703778463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a71f79472aff344ab683e79d1d8cf5
+      internalID: -1596139802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6111f63273a6b3440a835c0b4e569626
+      internalID: 2097053653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bf97bf751f06348a1401a09f9de743
+      internalID: 659020969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1088f2911b7c4f84cb2e794cb2a92916
+      internalID: 2000107483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cae7ec29a535d34d8a398013ec5c0e6
+      internalID: 187531719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69dc83a1bcc9d64785ab6bdb4133e29
+      internalID: -970607651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd289d7f144fb944ae2639445ff3cbc
+      internalID: -1267913951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b181d23559a3304e8156b36b047abc4
+      internalID: -913834525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb715c41864b77439a62f047fd0cdfe
+      internalID: 1473351278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f9c92215af7094faa296901bebdbca
+      internalID: -421432128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca432e555d0e66b4e8da89a07ea98e8b
+      internalID: 353117432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9cd8bb000caa144a217d9590c121fd
+      internalID: -54859192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd2f489758a0e34bb7a0126a8ceddd1
+      internalID: -1713798335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5226a74b71c6782468cbdaa20422fe22
+      internalID: -1547286184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f1a0e158a90ed4baf4b32c178ad91e
+      internalID: 903751593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d246a5e092438240987bf4af620baf4
+      internalID: 193519744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a95ab8a91c904b89cfd7555fe4984
+      internalID: 1798840042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3a1a2de7557e644aa066d290678114
+      internalID: 291754863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7675c443aeae6694d81455799637f3af
+      internalID: -152176711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba81c1f1d03f1d44894a7e058224920
+      internalID: -624053414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 636
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c7c2159735b544b7ec0c31c80164c
+      internalID: -1544720010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de37b27e5add194aab6e5ac5c37b450
+      internalID: -1386644247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574cc8f45e016a34c9e7d10743fc5078
+      internalID: 1099335180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2ce62fd7c38da4eac97b6d0a691bde
+      internalID: -1607637608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc5c57ec21e5e4799dc437dc05a9d3
+      internalID: 602349201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8625a827365bd524485fe4ea8c74ad38
+      internalID: -454607769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4446a802b2bcd0746b77be3c74173522
+      internalID: 1834786918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e090ba20ec7ed448629d5ceb1229b6
+      internalID: -525480201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2cdde384513f044b9a44c06f0fa65c
+      internalID: 432076155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f1542d7864e204a89f81bc4db53ba2
+      internalID: -916327754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af3000209b94a4eb1e8da9ea7007ce
+      internalID: -1989963516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fb2564b479bb347bc48d217bc13230
+      internalID: -513705786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa3e23a1be939e4aa521ee20eccbde5
+      internalID: -350605288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_50
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4ce569a574ff845b1c273aa78c50e4
+      internalID: -2129563473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_51
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb152534c7e4fa84f8b10f89f22a1797
+      internalID: -322304228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_52
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6f2e910d12e53408aaf268cff16ed9
+      internalID: 1105734094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_53
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04483064c6f58674a940e83e0c97272b
+      internalID: -1823756114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_54
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b4e4b2720e17240bf53effabb8f80d
+      internalID: -1939869987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_55
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34966d2d4f3604742bcd2826f8ef9aff
+      internalID: 615256846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_56
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b0d4f9233ec7a4eaa9976e484824b9
+      internalID: 1343089730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_57
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d755a817fc84f4dbc62198abef47e7
+      internalID: -816113788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_58
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311aaa9c03fa44d4bafb7894992ec978
+      internalID: 1619124841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_59
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f723de3df90715e449fb2ba065293983
+      internalID: 1678615454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_60
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0686243d23e9ddb4485504e4aa406dea
+      internalID: -1575186948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_61
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b512f9c1af1642044baa7de166809ca8
+      internalID: -1946917001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_62
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a64b48a9a259b4ba48a4fc561c5dcc
+      internalID: 222264174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_63
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b0be0b4259ab4479d76337d255a76f
+      internalID: 1194239932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_64
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b422b4cad2de734d8b8b8daaf65799c
+      internalID: 900925699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_65
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe388e1113ab584fbd23bb814cebee9
+      internalID: -698507943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_66
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55052c88c1914d54fbec7719dec29185
+      internalID: 31289011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_67
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1de05652a753e43b8c1ac7c996a4b3
+      internalID: 1889471874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_68
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c520124d83d24124793e8b74f3fc26cb
+      internalID: -1116581560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_69
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883688b25851be4458d87eebd34b8114
+      internalID: 215086369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_70
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d28e9401a23d4c9a562d7dd9e2dfe
+      internalID: 1031280436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_71
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c2511c713951c41a1779189876dcd7
+      internalID: 1761164586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_72
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ff72f4147f417498c15b307b3dba6f
+      internalID: -1582454528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_73
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4aba07d3e16a446a948492c4306c0a
+      internalID: 107973527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_74
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0027c3c653aa154490c2909a471b2f7
+      internalID: -2143533010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_75
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 552
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5a59b54ff7e544caeec9cc30e3f9aa
+      internalID: 1234642016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b25eae35b2b104bb2c6a3b9d3b38b0
+      internalID: 1877303490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_77
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53201c16e88144dbf41ac2f2362541
+      internalID: 907958371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e072e8ddf138664091d9e21960ea9c9
+      internalID: 569746217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_79
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b601a89fec4a46aa97c6235190554
+      internalID: -1457296577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_80
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c670f5201a828544fb6e3b33bd402120
+      internalID: -581071979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_81
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2121e689aca0324881f2cddcf65b6c9
+      internalID: 1967593923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_82
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f28c77f48a3f8a45ae4f62c4146400a
+      internalID: 301352316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_83
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b71e32a5437c34c92877fbc4eb2fae
+      internalID: 374068580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_84
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d5a3b556a72444280ca1d54b1d29f2
+      internalID: -1180394145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_85
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb37427779eebe4796f284521444ed5
+      internalID: 1564726030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_86
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09528795d51974ebaeefa32fce2211
+      internalID: -152561844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_87
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4d0a62731fb94fafb0d5208895f1c
+      internalID: 1117379374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_88
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c14f79e1c91342a17efdf32af6718
+      internalID: 153099354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_89
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c364d7cbc42471459320072aeae24f1
+      internalID: 1145626795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_90
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e83f65ec326a54cb05b9b9bd83ac03
+      internalID: -1963120018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_91
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea86240d78f6054fba45205a1254000
+      internalID: 1107798800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_92
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529c0873a772915419ac3f2e97b8a8f3
+      internalID: -40896625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_93
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4f2acceca2b0d4a8f8ff25338ec61a
+      internalID: 390239508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_94
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3d504662c929d44aa60ad179f22fc2
+      internalID: 1609359747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_95
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f0d11c4a9865c4c868b523c254bd7f
+      internalID: 2143379551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_96
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2624329826d374ba135627c88820db
+      internalID: 1602234781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_97
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1c1aa7cb271ba45b51ca0f2712bd76
+      internalID: 1883014759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_98
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9477fc1d00922da4ca180acedbb715c1
+      internalID: -2143693116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_99
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565e705f04a78a44da0c83d728491102
+      internalID: 601176770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_100
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d8d9834a51964419f334144385adc1
+      internalID: -40118837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_101
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd66a7b9ac99f4f967b4aa28c62802
+      internalID: -1650509474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_102
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5704897533163f741adf210d62ab8012
+      internalID: 1364232729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_103
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd536fd60bf91094bad44d6e6afc0fa8
+      internalID: -678873504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_104
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e91f9f16fcab942800e171c9c6545b
+      internalID: 187582793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_105
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b579e86a52d80469741b45f867a3d7
+      internalID: 2087434986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_106
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efa15ef977aac849ab98b196ef6b4e8
+      internalID: 1565242875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_107
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d8307cd0282a244949817c3316cd38
+      internalID: -424804367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_108
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cffd2d5a804df45aec36eb76b93349
+      internalID: 2114557850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_109
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0bab2af28170549813b5716a26b777
+      internalID: 857580222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_110
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2b912aa8f79aa46a3268bf51fe6ca5
+      internalID: -1814251575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_111
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b38e2904d8c0ae4e8b32d6d5770f880
+      internalID: -345804825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_112
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6719259074496048b9dc34cfb6997e6
+      internalID: -782369796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_113
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 468
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1c06f0687a30448934d2d880253295
+      internalID: -2048359074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d9c4655e9bc124cb8042156f6001fa
+      internalID: 242256439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130faf01ba45f843a4e3fdca068035a
+      internalID: 181351235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_116
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc2e82c1038d1446a6184b790781817
+      internalID: -671784886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_117
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d27664730b0a174d9bc955ff61ccce9
+      internalID: 1095164324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_118
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb1bcf81a476444f92e85930204a93d
+      internalID: -1036199649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_119
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85efe0574638de4b8fd2aefd460c3ea
+      internalID: 1886794292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_120
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a521d4e5bee3e4cbeea339a2898209
+      internalID: 228154016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_121
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4ee33a0f4eda14d9b91dca5111430e
+      internalID: 1267778512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_122
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b905c530dfd044904031dd354e4fd
+      internalID: -711303133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_123
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7df4bd2ca538843a5ae04c948fff4e
+      internalID: 1454292748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_124
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c41eea64cd4dd449b3873b2b5dbde2
+      internalID: 948460515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_125
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbdc06759760914ea56f6d9ea8ddd28
+      internalID: -771405173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_126
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9e4cb64eb23914da55563e278cb091
+      internalID: -1418424203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_127
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5f7f4ec72ccfb46967912b2cff059e
+      internalID: 521886039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_128
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3102053f9572de944927e4e65070d5fd
+      internalID: -1516954401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_129
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9222a4c4853e98249a74b8429ca5b337
+      internalID: -1621438071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_130
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7ac847355235f4ea1fa7f4714a578f
+      internalID: -1139827876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_131
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd2e4229e8f8e469fc9a6a14c05543
+      internalID: 900510151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_132
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b598549618a2d847a138275b3feb4dd
+      internalID: 22347506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_133
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aa26cc0dcb9c043bc1296c21efe723
+      internalID: -1577675109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_134
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1ba69ce3610b549b498ae36b83319b
+      internalID: -2097967705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_135
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a3e4fa56b5204cafc2ca17763dca4
+      internalID: -1918647074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_136
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90f930c70ce122449091b4be973a2af
+      internalID: 1826448994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_137
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6eb5b4cf2bc174097b02e2c70a2f7d
+      internalID: 2014298122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_138
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be81683e8eda5e42ac27ad817978ad3
+      internalID: -993041531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_139
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77c438a727f0874dbe8686d8d559713
+      internalID: -975711107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_140
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd81e151a14b1346a2c9ae1dfe12a81
+      internalID: 401785050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_141
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9cea31d62ac64db80556145d38d73
+      internalID: 512208710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_142
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ed7f8c4fb4214a884588874941dc0
+      internalID: -988485702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_143
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2973f9fd4505489a6bc9e7e1c8250
+      internalID: 653812090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_144
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e7c7277dfa31144b587c7493361751
+      internalID: -141632595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_145
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188adad31237bf244b6f72d2cacd1c5d
+      internalID: -498895036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_146
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32df7a81cd6c314ab46527c863643c6
+      internalID: -1218913057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_147
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7746b6a8ab6eb744796330f7d16cbcd0
+      internalID: 858588543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_148
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5127c6f910f798f4ab744dd9fa288612
+      internalID: -253642931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_149
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664781dd41718554295305df6bf09c00
+      internalID: -1887705002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_150
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f53d620d0f69f34fad72482610e4524
+      internalID: -565314033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_151
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 384
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657097d9010dfc41a6b0d2a0e59aec2
+      internalID: -1946921998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b9edb4e266ff946bca643e4ffbe980
+      internalID: 1739441863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_153
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da5c7112f31a244990d5400c94fa13
+      internalID: -193645935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_154
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a65829e780045143838e6977c691681
+      internalID: -1561412960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_155
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb2f3c1ec89a6445b03752718f38238
+      internalID: 1799603536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_156
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e4a7cae0664944f9004b3b6a7843a4
+      internalID: -1301938239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_157
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ebbc7649ec9d04bb3335c96830c381
+      internalID: 335987817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_158
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86324c1621f77cc47aa6389cb054924e
+      internalID: 229391162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_159
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c7bba4f56a7fe46acb73291e573c03
+      internalID: 2020358938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_160
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bebe3fcb99e5943905ddfdcb823430
+      internalID: 805104643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_161
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bc3486ced3cfb4d9b682167e07ab06
+      internalID: 250572731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_162
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba8f764d0990e54cadf86d939aed4d0
+      internalID: -517033327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_163
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830bb6d6fd4cb2d4da00dd90a7f4abf1
+      internalID: 240797060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_164
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f605f62f31206a45a03d1d85b9bba2b
+      internalID: 1078008691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_165
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63c2baa87762e84f879a53e40bf32e8
+      internalID: 1443145230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_166
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fce2f29135f0b46b56040c8524a53d
+      internalID: 1022117536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_167
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e342bc99615754dadbddbfb02dc973
+      internalID: -1612601298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_168
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafab115ad64b744d82d9bd80d9a559a
+      internalID: 2013799959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_169
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e09418df5ab94da42532829784e89
+      internalID: 343218402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_170
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b78951db834c8a4a8f8ca333f495ad3
+      internalID: -1577405801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_171
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa18c3b10cb2748af25e411ab26a8d
+      internalID: 1100857141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_172
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48b11633091bbb4a943f1e215f6aa8d
+      internalID: -185214497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_173
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46206c76c5c56fa42aed2de41fde9ba6
+      internalID: -1029731213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_174
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2051dad8b82c8a14b8902dcf543aaacc
+      internalID: -1807191269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_175
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c52c555158ead146b3367f433606fff
+      internalID: -242834597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_176
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41870f0389178479949ae685ec48d5
+      internalID: -2100587899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_177
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e154625022ec04aaea9ca79878df13
+      internalID: 1273784785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_178
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459f0664f967e2e428ef62d6ff0c99a8
+      internalID: -1523670522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_179
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720484b79031367449765fe8d622d8f2
+      internalID: -1842767957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_180
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb1e5d7e9839e84c83da2f45af70d8e
+      internalID: -1709429817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_181
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610af2852b0761442bf7817031a8c068
+      internalID: -465367387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_182
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75fed5c96e9bb409a5f8728092392f
+      internalID: 1237676003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_183
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81173c2249d9c9d4899e74fde154fad1
+      internalID: -2127167798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_184
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b885dfcaf8eb01445ab88648fb864997
+      internalID: 1613485406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_185
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fb04ad88f25ee4ca20183e7eb04242
+      internalID: 467356865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_186
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff5690a0a19ca46b2ab359b81d2882
+      internalID: 213223452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_187
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad10f7f0d4fc549b092c07aa330ac6
+      internalID: 550586301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_188
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7b9f578fbefa74bade020e3f595d4c
+      internalID: -1209520084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_189
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 300
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4840ce19ad5d82a469a5c8d675ae8a80
+      internalID: -943569065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9fab8db446de8459a75abe73f9f733
+      internalID: -319123021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_191
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931f82678ce1fc24587d46e428f8a0fc
+      internalID: 1940264926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_192
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd1a87a56841b46a299a6577a749b0
+      internalID: 1259285643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_193
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3247ab6277ec53478fe65c375c785ab
+      internalID: -1712952043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_194
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec9a7509d5dd8429ec7be65306e739
+      internalID: 1817344583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_195
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49653df9f7886444bb0614dcec9cd502
+      internalID: 119454074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_196
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e81386e5e75884a8242e7de18bc405
+      internalID: 1728561220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_197
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5aeaa8183a2dc48b3b69e2eb8d4877
+      internalID: 394772896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_198
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac6517f9bd77114b80428363d6ffb30
+      internalID: 478222488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_199
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2100617ada4cb64390046ff892c8bf3
+      internalID: 1949528076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_200
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abdd1187257e40488a6af3ce6a87ad0
+      internalID: -463450879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_201
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0573c8ec86de4e844be2e521567dea89
+      internalID: 1018856409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_202
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac83b8d6b203542951838d89140a1d
+      internalID: 1596998048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_203
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09db8a99c1f05145ac0fcf35c40c168
+      internalID: 1592248353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_204
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e20cac6d00cfda4ea4599a6ace6bdb1
+      internalID: 1480063990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_205
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0156030fb7cae4943980500067a7f00e
+      internalID: 340195322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_206
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339952318edfcc248af7f1d470cfb6af
+      internalID: -717907304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_207
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16de9bb68d95659418b39eaff0b12f62
+      internalID: 2025773183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_208
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f347eb57ef87494488d23eaf3f3154a
+      internalID: -1618098730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_209
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25258675792bf3241a615925f56790c8
+      internalID: 1433563399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_210
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55213e025a8c3741bea1444a509aaf1
+      internalID: 1078738850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_211
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f69b616463ceb4fa42f75524efd234
+      internalID: 1482003041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_212
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdae0e57427b05488bb418727fa9848
+      internalID: -1862162044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_213
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3776a22f4291ecd45ab515b80564b8ba
+      internalID: 256321050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_214
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1287937813458409dad95217d81625
+      internalID: -1410464366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_215
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa6871e9444bd4cbbd5db81c6d0b53
+      internalID: -1412094531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_216
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f0baceda60d84397c14a30c77c76c
+      internalID: 169231140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_217
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd59636b44906940a0b7b2b1198dc80
+      internalID: 1140351765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_218
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1247b8d8f516f46862fc0d17c6b488
+      internalID: -1394015030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_219
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4859a69e806c49b26717dbf0a266c
+      internalID: -1338978635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_220
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeac29294df4dd489f5b5cc1743f5ca
+      internalID: -647774022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_221
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d740a601be88a41b75c6cc42ffaffe
+      internalID: -643758206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_222
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626bd7f52c341bb4a8e15026d83d44c9
+      internalID: -1811742541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_223
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7577297e05f8d334ea500068485b1b98
+      internalID: 1597014553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_224
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167bca6aad79e6a49a3e4333bf52507b
+      internalID: -677319679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_225
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49f24a34497c9842bb8accaf063b0e6
+      internalID: -1072266611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_226
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcfab7b1c2efee49975c79fcdab1cce
+      internalID: 1808269987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_227
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 216
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1296e00568d31845984a6326bd86b31
+      internalID: 1051431001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e308253dfa329f74b9b734f2a88bf9ee
+      internalID: 1233127836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_229
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b7c88adcf8aa469bd5233c6815694
+      internalID: 1149450938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_230
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b10dd97fa97414aad4ff2f5c7964d6
+      internalID: 350270644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_231
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea5d4cd192c9e141bac2afecc533ef7
+      internalID: -1643820720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_232
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47cc101cb47e340b1a657e373b6286
+      internalID: -613865023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_233
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f3fdc138cce3640bd4d765727c6976
+      internalID: 177169110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_234
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d26c57184e87643bbc0d808b69387a
+      internalID: 69394174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_235
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2077e58e7512a46a878d9175678f91
+      internalID: 2092088807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_236
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a409cb1e2241740843705e13c72405
+      internalID: -359755983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_237
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a33892ed8f4b7f42a63f864b3c84e73
+      internalID: 448205038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_238
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5880bf0de2a1e44099c511623fed5d5
+      internalID: -571453771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_239
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961b297357682ab46b24f2e014d9999c
+      internalID: -1421719841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_240
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff66a368f7286c458fcaaeaa6b6e248
+      internalID: 649551336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_241
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f639383b73b0e96409766aa01aeb6561
+      internalID: -342418651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_242
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0104c9857c637064d88852455e20d8ad
+      internalID: -1973799669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_243
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63be9c2dc84af044889caf0b4c433d89
+      internalID: -132564514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_244
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796a28bb1e0bbb14e9ac2a2fd9d43ed1
+      internalID: -987141711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_245
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398606cb51932043b321f667889e3fd
+      internalID: 361818522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_246
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78225e9f4ec22b145a1aadc7ea14c772
+      internalID: 1901642544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_247
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26befaecfa02840498d963674e25a538
+      internalID: 1991628444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_248
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c2d08ab595b4b4fb72e909a008fa4a
+      internalID: -1218345855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_249
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d232d5c1c58754f887a0f1048a11ef
+      internalID: -268383844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_250
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268034ccfd09d0845b9a253b42a49e33
+      internalID: -19631136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_251
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcaaf5adcf3ec94aac3979fae409a09
+      internalID: -703097703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_252
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c24421e5fb9274198c2873a3a2d1e3
+      internalID: -1739405922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_253
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d808ac642ce04095d12ce95dc5197
+      internalID: 900651405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_254
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fdd44bcf52e3148af4dec1f1650fc5
+      internalID: -1027200110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_255
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed0caf4a9312374fba05c073840a3b7
+      internalID: -1312713969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_256
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c006edd68c2217429a3417515a7124d
+      internalID: 2020018536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_257
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e84bbb9c17e24fac2e2b21e96ba6b
+      internalID: -1842110785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_258
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59071f2944145d746ae5db7b2f7ff9e3
+      internalID: -1250255751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_259
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0851bf3d374f201458148943b00426ef
+      internalID: -389962463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_260
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1dc2dcbfa0955469c46a60fd6a6294
+      internalID: -1746642309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_261
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c66693a11ac140a004a05b89648be
+      internalID: 124747780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_262
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55522b73169d57841b225a4990f662d9
+      internalID: -1878418236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_263
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce618dc933858749bd30d4ab2d3b7e5
+      internalID: -2034147394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_264
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a6348b062aa40448876f2041e05b0f
+      internalID: -1537940774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_265
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 132
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9806e68645dd44440a6a4e5dff9da72d
+      internalID: -1112381098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea17359ce9665b45a61c5dcb5702f85
+      internalID: 1230511396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_267
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426f639fb93c9ea4cac1c43e0d066055
+      internalID: 1113734195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_268
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eed3c9bfa46b9542a4b165a33c9a629
+      internalID: -301514991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_269
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3d37647eaed1a4c9917c7663fb64ad
+      internalID: -2009280165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_270
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c68047dc34464f940a4abb70d0073
+      internalID: 1141170056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_271
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f544a4a9e8ecaf7439ae86baf42ac5e2
+      internalID: 202148973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_272
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec093dad1b2b5e943a3f55c434bc1c4c
+      internalID: 99465115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_273
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3126808efc08a4b85c53982fca13c9
+      internalID: 1611766872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_274
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0623e064da5cb9b49848d00a58efd84e
+      internalID: -1186448411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_275
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27b6ec009631574c94d5d84568e5459
+      internalID: -1605091926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_276
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d43df6e25e7d3e408a772a2bd1c8d7e
+      internalID: 993333754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_277
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8355d0aaa388f2469800590e3c1c3b1
+      internalID: -974127819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_278
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557accc8bb033da4f90d097349d196d2
+      internalID: -295938099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_279
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4922dc98576fc5842bf5e860561e6b97
+      internalID: 224807206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_280
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b19f35aac08656459fc8e6946255003
+      internalID: -375565988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_281
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f22678e7c3cfca4abdc7107c90326b5
+      internalID: -1197892814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_282
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acca78b6480e1b4fb349802caab0e0e
+      internalID: -1641045544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_283
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b78fcd606978849a97a1de22bd39ca
+      internalID: -110724583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_284
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ac7469dc9cd849a95334043a7bce5
+      internalID: -1050452696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_285
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac3236c131f5fe458720c243e08c276
+      internalID: 910249695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_286
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5849c82b2dc35438ce8dc598944e4b
+      internalID: 804864449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_287
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f66dd80d6c45c41934f8589a52f46a
+      internalID: 972446995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_288
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05a96da555c1da499bd1361c81a8d8f
+      internalID: -491062842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_289
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e734300e3e8d49981eefd4f05578e
+      internalID: 999871960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_290
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6373e63b74e6b429b4621e3da923a3
+      internalID: 427038004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_291
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d18a81058189e4a84b77e7078cf170
+      internalID: 1027116381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_292
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b1bc0412f47224e8a0e70786577da6
+      internalID: 550475637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_293
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d7d124d51c3cc48ad8ec49c636077f
+      internalID: 63921465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_294
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9e7dc558b209e46b14d39cc9bfbc8e
+      internalID: -1059131978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_295
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8880a501e09dd84a820c6c3f0249204
+      internalID: -1312878110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_296
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d34b6a25d6c8194081b5b0f224ed74c
+      internalID: -38242149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_297
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8950ab1e3ae404548917ec2f79ebd7e7
+      internalID: -852384116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_298
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4107508d7e974f8d18ec2e155e520
+      internalID: -284989097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_299
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587e5450a2409d248beb1dd879c123d8
+      internalID: 920398460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_300
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff236471f505aa4e8717f0aefbb13bc
+      internalID: -449143236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_301
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa275e9bec3079147a29491737166205
+      internalID: -1430459291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_302
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d191bd2d0a6779a4f93ae2eaad826e88
+      internalID: 1448629256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PromoAnimated2x-ezgif.com-gif-to-sprite-converter_303
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 48
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de55ac6f61d90144bffe1f439ac2596
+      internalID: -72090163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e7f56058cec9104e9c18c2a3e38bc47
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":84.0,"y":84.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_0: 2475058551894615334
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_1: 601189638
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_10: 1943593753
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_100: -40118837
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_101: -1650509474
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_102: 1364232729
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_103: -678873504
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_104: 187582793
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_105: 2087434986
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_106: 1565242875
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_107: -424804367
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_108: 2114557850
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_109: 857580222
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_11: -934398287
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_110: -1814251575
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_111: -345804825
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_112: -782369796
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_113: -2048359074
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_114: 242256439
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_115: 181351235
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_116: -671784886
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_117: 1095164324
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_118: -1036199649
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_119: 1886794292
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_12: 506617845
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_120: 228154016
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_121: 1267778512
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_122: -711303133
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_123: 1454292748
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_124: 948460515
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_125: -771405173
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_126: -1418424203
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_127: 521886039
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_128: -1516954401
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_129: -1621438071
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_13: 940709487
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_130: -1139827876
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_131: 900510151
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_132: 22347506
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_133: -1577675109
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_134: -2097967705
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_135: -1918647074
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_136: 1826448994
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_137: 2014298122
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_138: -993041531
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_139: -975711107
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_14: 1937865758
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_140: 401785050
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_141: 512208710
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_142: -988485702
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_143: 653812090
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_144: -141632595
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_145: -498895036
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_146: -1218913057
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_147: 858588543
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_148: -253642931
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_149: -1887705002
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_15: -1821003705
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_150: -565314033
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_151: -1946921998
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_152: 1739441863
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_153: -193645935
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_154: -1561412960
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_155: 1799603536
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_156: -1301938239
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_157: 335987817
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_158: 229391162
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_159: 2020358938
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_16: 1703778463
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_160: 805104643
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_161: 250572731
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_162: -517033327
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_163: 240797060
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_164: 1078008691
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_165: 1443145230
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_166: 1022117536
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_167: -1612601298
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_168: 2013799959
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_169: 343218402
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_17: -1596139802
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_170: -1577405801
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_171: 1100857141
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_172: -185214497
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_173: -1029731213
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_174: -1807191269
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_175: -242834597
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_176: -2100587899
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_177: 1273784785
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_178: -1523670522
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_179: -1842767957
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_18: 2097053653
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_180: -1709429817
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_181: -465367387
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_182: 1237676003
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_183: -2127167798
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_184: 1613485406
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_185: 467356865
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_186: 213223452
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_187: 550586301
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_188: -1209520084
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_189: -943569065
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_19: 659020969
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_190: -319123021
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_191: 1940264926
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_192: 1259285643
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_193: -1712952043
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_194: 1817344583
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_195: 119454074
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_196: 1728561220
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_197: 394772896
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_198: 478222488
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_199: 1949528076
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_2: 280526708
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_20: 2000107483
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_200: -463450879
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_201: 1018856409
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_202: 1596998048
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_203: 1592248353
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_204: 1480063990
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_205: 340195322
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_206: -717907304
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_207: 2025773183
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_208: -1618098730
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_209: 1433563399
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_21: 187531719
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_210: 1078738850
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_211: 1482003041
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_212: -1862162044
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_213: 256321050
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_214: -1410464366
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_215: -1412094531
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_216: 169231140
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_217: 1140351765
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_218: -1394015030
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_219: -1338978635
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_22: -970607651
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_220: -647774022
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_221: -643758206
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_222: -1811742541
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_223: 1597014553
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_224: -677319679
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_225: -1072266611
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_226: 1808269987
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_227: 1051431001
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_228: 1233127836
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_229: 1149450938
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_23: -1267913951
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_230: 350270644
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_231: -1643820720
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_232: -613865023
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_233: 177169110
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_234: 69394174
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_235: 2092088807
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_236: -359755983
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_237: 448205038
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_238: -571453771
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_239: -1421719841
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_24: -913834525
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_240: 649551336
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_241: -342418651
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_242: -1973799669
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_243: -132564514
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_244: -987141711
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_245: 361818522
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_246: 1901642544
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_247: 1991628444
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_248: -1218345855
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_249: -268383844
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_25: 1473351278
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_250: -19631136
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_251: -703097703
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_252: -1739405922
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_253: 900651405
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_254: -1027200110
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_255: -1312713969
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_256: 2020018536
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_257: -1842110785
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_258: -1250255751
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_259: -389962463
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_26: -421432128
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_260: -1746642309
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_261: 124747780
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_262: -1878418236
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_263: -2034147394
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_264: -1537940774
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_265: -1112381098
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_266: 1230511396
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_267: 1113734195
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_268: -301514991
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_269: -2009280165
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_27: 353117432
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_270: 1141170056
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_271: 202148973
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_272: 99465115
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_273: 1611766872
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_274: -1186448411
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_275: -1605091926
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_276: 993333754
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_277: -974127819
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_278: -295938099
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_279: 224807206
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_28: -54859192
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_280: -375565988
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_281: -1197892814
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_282: -1641045544
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_283: -110724583
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_284: -1050452696
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_285: 910249695
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_286: 804864449
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_287: 972446995
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_288: -491062842
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_289: 999871960
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_29: -1713798335
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_290: 427038004
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_291: 1027116381
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_292: 550475637
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_293: 63921465
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_294: -1059131978
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_295: -1312878110
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_296: -38242149
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_297: -852384116
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_298: -284989097
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_299: 920398460
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_3: 585979019
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_30: -1547286184
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_300: -449143236
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_301: -1430459291
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_302: 1448629256
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_303: -72090163
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_31: 903751593
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_32: 193519744
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_33: 1798840042
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_34: 291754863
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_35: -152176711
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_36: -624053414
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_37: -1544720010
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_38: -1386644247
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_39: 1099335180
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_4: 192839485
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_40: -1607637608
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_41: 602349201
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_42: -454607769
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_43: 1834786918
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_44: -525480201
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_45: 432076155
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_46: -916327754
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_47: -1989963516
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_48: -513705786
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_49: -350605288
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_5: 1434453158
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_50: -2129563473
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_51: -322304228
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_52: 1105734094
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_53: -1823756114
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_54: -1939869987
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_55: 615256846
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_56: 1343089730
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_57: -816113788
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_58: 1619124841
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_59: 1678615454
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_6: -312879925
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_60: -1575186948
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_61: -1946917001
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_62: 222264174
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_63: 1194239932
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_64: 900925699
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_65: -698507943
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_66: 31289011
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_67: 1889471874
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_68: -1116581560
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_69: 215086369
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_7: -160711085
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_70: 1031280436
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_71: 1761164586
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_72: -1582454528
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_73: 107973527
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_74: -2143533010
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_75: 1234642016
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_76: 1877303490
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_77: 907958371
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_78: 569746217
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_79: -1457296577
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_8: -488097035
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_80: -581071979
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_81: 1967593923
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_82: 301352316
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_83: 374068580
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_84: -1180394145
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_85: 1564726030
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_86: -152561844
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_87: 1117379374
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_88: 153099354
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_89: 1145626795
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_9: 265930973
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_90: -1963120018
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_91: 1107798800
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_92: -40896625
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_93: 390239508
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_94: 1609359747
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_95: 2143379551
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_96: 1602234781
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_97: 1883014759
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_98: -2143693116
+      PromoAnimated2x-ezgif.com-gif-to-sprite-converter_99: 601176770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

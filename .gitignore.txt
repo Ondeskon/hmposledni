@@ -1,0 +1,54 @@
+# Unity garbage (tyhle složky nikdy nepatří do Gitu)
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+[Bb]ackups/
+*.stackdump
+
+# Package cache – hlavní viník velkých souborů
+Library/PackageCache/
+Packages/packages-lock.json
+
+# Visual Studio / Rider garbage
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.vscode/
+.idea/
+*.csproj.user
+*.rider/
+
+# OS garbage
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity LFS placeholder (pokud někdy použiješ)
+*.gitattributes
+
+# Burst / IL2CPP cache
+Library/BurstCache/
+Library/Il2cppBuildCache/
+Library/ScriptAssemblies/
+
+# Addressables / Asset Bundles
+Assets/AddressableAssetsData/
+*.bundle
+*.bundle.meta
+
+# Další Unity temp a logy
+*.tmp
+*.log
+*.tmp.meta
+
+# Firebase nebo jiné SDK
+*.firebase
+*.firebase.meta
