@@ -100,54 +100,66 @@ public class Boss : MonoBehaviour
     IEnumerator MeleeAttack()
     {
         Debug.Log("Boss začíná melee útok!");
-
         isAttacking = true;
         lastAttackTime = Time.time;
 
         if (animator != null)
             animator.SetTrigger("Swing");
 
-        yield return new WaitForSeconds(0.4f);
+        // Detekce hned na začátku animace (když boss začíná švihat)
+        yield return new WaitForSeconds(0.1f); // malý delay, aby se animace spustila
 
-        if (attackPoint == null)
-        {
-            Debug.LogError("AttackPoint na bossovi je NULL – útok selhal!");
-        }
-        else
-        {
-            Debug.Log($"Útok z pozice: {attackPoint.position} | Radius: {meleeRange} | Layer: Player");
+        PerformMeleeHit(); // první kontrola (začátek švihu)
 
-            Collider2D[] hits = Physics2D.OverlapCircleAll(
-                attackPoint.position,
-                meleeRange,
-                LayerMask.GetMask("Player")
-            );
+        yield return new WaitForSeconds(0.4f); // zbytek animace
 
-            Debug.Log($"Boss našel {hits.Length} objektů na layeru Player");
+        PerformMeleeHit(); // druhá kontrola (konec švihu – největší síla)
 
-            foreach (Collider2D hit in hits)
-            {
-                Debug.Log($"Zasažen objekt: {hit.name} | Layer: {LayerMask.LayerToName(hit.gameObject.layer)}");
-
-                PlayerController p = hit.GetComponent<PlayerController>();
-                if (p != null)
-                {
-                    p.TakeDamage(1);
-                    Debug.Log("*** BOSS ZASÁHL HRÁČE – 1 srdíčko ubráno! ***");
-                }
-                else
-                {
-                    Debug.LogWarning("Zasažen objekt na Player layeru, ale nemá PlayerController script!");
-                }
-            }
-        }
-
-        yield return new WaitForSeconds(0.6f);
+        yield return new WaitForSeconds(0.3f); // malý follow-through
 
         TeleportBehindPlayerImmediate();
 
         isAttacking = false;
         Debug.Log("Melee útok dokončen – boss může pokračovat v pohybu");
+    }
+
+    // Nová pomocná metoda – vyčistí kód
+    private void PerformMeleeHit()
+    {
+        if (attackPoint == null)
+        {
+            Debug.LogError("AttackPoint na bossovi je NULL – útok selhal!");
+            return;
+        }
+
+        Vector2 attackPos = attackPoint.position;
+        float currentRange = meleeRange; // můžeš dynamicky měnit range během animace
+
+        Debug.Log($"Melee hit check: Pos = {attackPos}, Player Pos = {player.position}, Distance = {Vector2.Distance(attackPos, player.position)}, Range = {currentRange}");
+
+        Collider2D[] hits = Physics2D.OverlapCircleAll(
+            attackPos,
+            currentRange,
+            LayerMask.GetMask("Player")
+        );
+
+        Debug.Log($"Hits nalezeno: {hits.Length}");
+
+        foreach (Collider2D hit in hits)
+        {
+            Debug.Log($"Zasažen: {hit.name} | Layer: {LayerMask.LayerToName(hit.gameObject.layer)}");
+
+            PlayerController p = hit.GetComponent<PlayerController>();
+            if (p != null)
+            {
+                p.TakeDamage(1);
+                Debug.Log("*** BOSS ZASÁHL HRÁČE – 1 srdíčko ubráno! ***");
+            }
+            else
+            {
+                Debug.LogWarning("Hit na Player layeru, ale bez PlayerController!");
+            }
+        }
     }
 
     void TeleportBehindPlayerImmediate()

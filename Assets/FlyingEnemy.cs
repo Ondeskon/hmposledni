@@ -5,9 +5,14 @@ public class FlyingEnemy : MonoBehaviour
     public float hoverSpeed = 2f;
     public float diveSpeed = 8f;
     public float damage = 10f;
-    public float attackCooldown = 2f; // ← SHORTER cooldown for testing
-    public float diveDistance = 4f; // ← BIGGER range to trigger dive easier
+    public float attackCooldown = 2f;
+    public float diveDistance = 4f;
     public float hoverHeight = 5f;
+
+    [Header("Health Settings")]
+    public int health = 30; // Počet životů
+    private int maxHealth;
+    public HealthBarUI healthBar; // Referenci přetáhneš v Inspektoru
 
     private Transform player;
     private float lastAttackTime;
@@ -17,6 +22,13 @@ public class FlyingEnemy : MonoBehaviour
     {
         player = GameObject.FindGameObjectWithTag("Player")?.transform;
         if (player == null) Debug.LogError("FlyingEnemy: No Player found!");
+
+        // Inicializace healthbaru
+        maxHealth = health;
+        if (healthBar != null)
+        {
+            healthBar.UpdateHealthBar(health, maxHealth);
+        }
     }
 
     void Update()
@@ -24,56 +36,70 @@ public class FlyingEnemy : MonoBehaviour
         if (player == null) return;
 
         float distanceToPlayer = Vector2.Distance(transform.position, player.position);
-        Debug.Log("Bat distance to player: " + distanceToPlayer + " | DiveDistance: " + diveDistance); // ← DEBUG
 
         if (distanceToPlayer < diveDistance && Time.time > lastAttackTime + attackCooldown && !isDiving)
         {
-            Debug.Log("BAT DIVING!"); // ← DEBUG
             isDiving = true;
             lastAttackTime = Time.time;
         }
 
         if (isDiving)
         {
-            // Full dive toward player
             Vector2 diveDir = (player.position - transform.position).normalized;
             transform.position += (Vector3)diveDir * diveSpeed * Time.deltaTime;
 
-            // End dive if very close or missed
             if (distanceToPlayer < 0.5f)
             {
                 isDiving = false;
-                Debug.Log("Dive complete!");
             }
         }
         else
         {
-            // Hover/chase
             Vector2 hoverDir = (player.position - transform.position).normalized;
             transform.position += new Vector3(hoverDir.x * hoverSpeed * Time.deltaTime, 0, 0);
-
-            // Lock hover height
             transform.position = new Vector3(transform.position.x, hoverHeight, 0);
         }
 
-        // Face player
-        Vector2 dir = player.position + transform.position;
-        transform.localScale = new Vector3(dir.x > 0 ? 1 : -1, 1, 1);
+        // Face player - Tady pozor, u tvého kódu byla sčítání, opravil jsem na porovnání pozic
+        float direction = player.position.x > transform.position.x ? 1f : -1f;
+        transform.localScale = new Vector3(direction > 0 ? 1 : -1, 1, 1);
     }
 
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            Debug.Log("BAT HIT PLAYER!");
             var playerCtrl = collision.gameObject.GetComponent<PlayerController>();
             if (playerCtrl != null) playerCtrl.TakeDamage((int)damage);
-            Destroy(gameObject);
+
+            // Netopýr při nárazu do hráče zmizí (sebevražedný útok)
+            Die();
         }
     }
 
     public void TakeDamage(float dmg)
     {
+        health -= (int)dmg;
+
+        if (healthBar != null)
+        {
+            healthBar.UpdateHealthBar(health, maxHealth);
+        }
+
+        if (health <= 0)
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        // Pokud chceš, aby i létající nepřátelé přidávali body do GameManageru:
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.EnemyKilled();
+        }
+
         Destroy(gameObject);
     }
 }

@@ -861,10 +861,10 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 426c8cef5704c934e960d878026c8b43, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.047
+  m_Volume: 0.041
   m_Pitch: 0.49
   Loop: 1
-  Mute: 1
+  Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128

@@ -4,8 +4,12 @@ public class EnemyController : MonoBehaviour
 {
     public float moveSpeed = 2f;
     public int health = 3;
+    private int maxHealth; // Přidáno pro healthbar
     public int damage = 10;
     public float damageCooldown = 1f;
+
+    [Header("UI")]
+    public HealthBarUI healthBar; // Přetáhni sem skript z Canvasu
 
     private float lastDamageTime;
     private Transform player;
@@ -19,6 +23,10 @@ public class EnemyController : MonoBehaviour
         initialScale = transform.localScale;
         lastDamageTime = -damageCooldown;
 
+        // Nastavíme maxHealth na začátku
+        maxHealth = health;
+        if (healthBar != null) healthBar.UpdateHealthBar(health, maxHealth);
+
         if (player == null)
             Debug.LogWarning("Player not found! Tag the player as 'Player'.");
     }
@@ -30,7 +38,7 @@ public class EnemyController : MonoBehaviour
         float direction = player.position.x > transform.position.x ? 1f : -1f;
         rb.linearVelocity = new Vector2(direction * moveSpeed, rb.linearVelocity.y);
 
-        // Flip sprite podle směru pohybu
+        // Tvůj původní flip sprite
         transform.localScale = new Vector3(
             direction > 0 ? -Mathf.Abs(initialScale.x) : Mathf.Abs(initialScale.x),
             initialScale.y,
@@ -38,10 +46,17 @@ public class EnemyController : MonoBehaviour
         );
     }
 
-    public void TakeDamage(int damage)
+    public void TakeDamage(int damageTaken) // Přejmenoval jsem parametr, aby se nepletl s public int damage
     {
-        health -= damage;
-        Debug.Log($"Enemy hit! Damage taken: {damage}, Health left: {health}");
+        health -= damageTaken;
+
+        // AKTUALIZACE HEALTHBARU
+        if (healthBar != null)
+        {
+            healthBar.UpdateHealthBar(health, maxHealth);
+        }
+
+        Debug.Log($"Enemy hit! Damage taken: {damageTaken}, Health left: {health}");
 
         if (health <= 0)
         {
@@ -51,7 +66,6 @@ public class EnemyController : MonoBehaviour
 
     private void Die()
     {
-        // KLÍČOVÉ: Informuj GameManager, že byl zabit nepřítel
         if (GameManager.Instance != null)
         {
             GameManager.Instance.EnemyKilled();

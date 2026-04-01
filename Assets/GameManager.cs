@@ -42,18 +42,43 @@ public class GameManager : MonoBehaviour
     // Zavolej tohle při startu nové runy (např. z menu nebo po smrti)
     public void StartNewRun()
     {
-        playerCurrentHealth = playerMaxHealth; // Reset HP na maximum při nové runě
+        playerCurrentHealth = playerMaxHealth;
         enemiesKilled = 0;
         startTime = Time.time;
         runTime = 0f;
-        playerName = "Guest"; // nebo nech staré, pokud chceš
-        Debug.Log("Nová runa začala – HP resetováno na " + playerCurrentHealth);
-    }
+        playerName = "Guest";
 
+        Debug.Log("Nová runa začala – HP resetováno na " + playerCurrentHealth);
+
+        // Reset HUD
+        StatsHUD hud = FindFirstObjectByType<StatsHUD>();
+        if (hud != null)
+        {
+            hud.ResetDisplay();        // ← Correct method name
+        }
+    }   
     public void EnemyKilled()
     {
+        if (Instance == null)
+        {
+            Debug.LogError("GameManager.Instance je null při volání EnemyKilled()!");
+            return;
+        }
+
         enemiesKilled++;
-        Debug.Log("Zabitý enemy! Celkem: " + enemiesKilled);
+        Debug.Log($"[SUCCESS] EnemyKilled() → enemiesKilled is now: {enemiesKilled}");
+
+        // Force HUD refresh
+        StatsHUD hud = FindFirstObjectByType<StatsHUD>();
+        if (hud != null)
+        {
+            hud.RefreshEnemiesCounter();
+            Debug.Log("[SUCCESS] HUD refreshed from GameManager");
+        }
+        else
+        {
+            Debug.LogWarning("[WARNING] StatsHUD not found in scene!");
+        }
     }
     public async Task EndRunAsync(bool victory = true)
     {
