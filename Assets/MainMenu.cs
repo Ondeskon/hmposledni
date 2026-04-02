@@ -1,11 +1,14 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
-using System.Collections;  
+using System.Collections;
 
 public class MainMenu : MonoBehaviour
 {
-    [SerializeField] private AudioSource musicSource;  // Drag music AudioSource here
-    [SerializeField] private AudioSource sfxSource;    // Drag SFX AudioSource here (new one)
+    [SerializeField] private AudioSource musicSource;
+    [SerializeField] private AudioSource sfxSource;
+
+    // --- PŘIDEJ TUTO PROMĚNNOU ---
+    [SerializeField] private GameObject controlsPanel;
 
     void Start()
     {
@@ -16,38 +19,29 @@ public class MainMenu : MonoBehaviour
         }
     }
 
+    // --- PŘIDEJ TYTO DVĚ METODY ---
+    public void OpenControls()
+    {
+        if (sfxSource != null) sfxSource.PlayOneShot(sfxSource.clip);
+        if (controlsPanel != null) controlsPanel.SetActive(true);
+    }
+
+    public void CloseControls()
+    {
+        if (sfxSource != null) sfxSource.PlayOneShot(sfxSource.clip);
+        if (controlsPanel != null) controlsPanel.SetActive(false);
+    }
+    // ------------------------------
+
     public void PlayGame()
     {
-        if (sfxSource != null)
-        {
-            sfxSource.PlayOneShot(sfxSource.clip);  // Play click
-        }
-
-        // Call fade instead of direct load
+        if (sfxSource != null) sfxSource.PlayOneShot(sfxSource.clip);
         GetComponent<FadeToBlack>().StartFadeAndLoad("Level1");
     }
 
-    private IEnumerator PlaySoundAndLoad()
-{
-    if (sfxSource != null)
+    public void QuitGame()
     {
-        sfxSource.PlayOneShot(sfxSource.clip);
-        yield return new WaitForSeconds(sfxSource.clip.length * 0.8f);  // Wait almost full sound duration
-    }
-    else
-    {
-        yield return new WaitForSeconds(0.3f);  // Fallback delay if no SFX
-    }
-
-    SceneManager.LoadScene("Level1");
-}
-
-public void QuitGame()
-    {
-        if (sfxSource != null)
-        {
-            sfxSource.PlayOneShot(sfxSource.clip);  // Quick click sound
-        }
+        if (sfxSource != null) sfxSource.PlayOneShot(sfxSource.clip);
         Application.Quit();
     }
 }
