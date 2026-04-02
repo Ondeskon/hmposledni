@@ -1,0 +1,571 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.1471}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.6029}}@{}}
+\toprule()
+\multicolumn{3}{@{}>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{1.0000} + 4\tabcolsep}@{}}{%
+\begin{minipage}[b]{\linewidth}\raggedright
+\includegraphics[width=3.60417in,height=1.39583in]{vertopal_e623ec9c8bb640c499620facbb59575b/media/image1.png}
+\end{minipage}} \\
+\midrule()
+\endhead
+\multicolumn{3}{@{}>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{1.0000} + 4\tabcolsep}@{}}{%
+\textbf{Závěrečná studijní práce}
+
+\textbf{dokumentace}} \\
+\multicolumn{3}{@{}>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{1.0000} + 4\tabcolsep}@{}}{%
+\textbf{Haunted Mound}} \\
+\multicolumn{3}{@{}>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{1.0000} + 4\tabcolsep}@{}}{%
+Ondřej Lampa} \\
+\multicolumn{3}{@{}>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{1.0000} + 4\tabcolsep}@{}}{%
+\includegraphics[width=3.39655in,height=3.39655in]{vertopal_e623ec9c8bb640c499620facbb59575b/media/image2.png}} \\
+\multicolumn{2}{@{}>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3971} + 2\tabcolsep}}{%
+} & \\
+\textbf{Obor:} &
+\multicolumn{2}{>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.7500} + 2\tabcolsep}@{}}{%
+\begin{minipage}[t]{\linewidth}\raggedright
+18-20-M/01 INFORMAČNÍ TECHNOLOGIE\\
+se zaměřením na počítačové sítě a programování\strut
+\end{minipage}} \\
+\textbf{Třída:}
+
+\textbf{Školní rok:} &
+\multicolumn{2}{>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.7500} + 2\tabcolsep}@{}}{%
+IT4
+
+2025/2026} \\
+\bottomrule()
+\end{longtable}
+
+\textbf{Poděkování}
+
+Rád bych poděkoval hlavně za trpělivost učitelům při tomhle celém
+procesu
+
+Prohlašuji, že jsem závěrečnou práci vypracoval samostatně a uvedl
+veškeré použité\\
+informační zdroje.
+
+Souhlasím, aby tato studijní práce byla použita k výukovým účelům na
+Střední průmyslové\\
+a umělecké škole v~Opavě, Praskova 399/8.
+
+V~ Sudicích 17.1.2026
+
+\emph{Ondřej Lampa}
+
+\textbf{\hfill\break
+ABSTRAKT\\
+}Tato práce dokumentuje kompletní vývoj 2D akční roguelike hry Haunted
+Mound vytvořené v herním enginu Unity. Hra kombinuje klasické prvky 2D
+platformeru s intenzivním boss-fightem proti Grim Reaperovi. Hlavní
+mechaniky zahrnují pohyb a ovládání hráče, střílení, melee útoky,
+speciální útok havranem, systém tří srdíček životů přenášený mezi
+levely, health bar bosse, obrazovku smrti „You Died`` a victory screen
+se statistikami.
+
+Klíčovou součástí je integrace cloudové databáze Firebase Firestore,
+která umožňuje ukládat statistiky každého dokončeného runu (jméno hráče,
+počet zabitých nepřátel, čas dokončení). Do leaderboardu se zapisují
+pouze hráči, kteří bosse porazí (victory = true). Práce popisuje celý
+vývojový cyklus -- od návrhu mechanik přes implementaci herních systémů,
+UI, animací, kolizí až po cloudovou integraci a řešení technických
+výzev.
+
+Klíčová slova: Unity, 2D roguelike, boss fight, Firebase Firestore,
+leaderboard, health persistence, melee combat, raven attack, victory
+screen, You Died screen
+
+\textbf{ABSTRACT}
+
+This thesis documents the complete development of the 2D action
+roguelike game Haunted Mound created in the Unity game engine. The game
+combines classic 2D platformer elements with an intense boss fight
+against the Grim Reaper. Core mechanics include player movement and
+controls, shooting, melee attacks, raven special attack, a three-heart
+life system that persists between levels, boss health bar, death screen
+„You Died``, and victory screen with final statistics.
+
+A key feature is the integration of the Firebase Firestore cloud
+database, which stores statistics of each completed run (player name,
+enemies killed, completion time). Only players who defeat the boss
+(victory = true) are recorded in the leaderboard. The thesis covers the
+entire development cycle -- from game mechanics design, through
+implementation of game systems, UI, animations, collisions, up to cloud
+integration and solving technical challenges.
+
+Keywords: Unity, 2D roguelike, boss fight, Firebase Firestore,
+leaderboard, health persistence, melee combat, raven attack, victory
+screen, You Died screen
+
+OBSAH
+
+ÚVOD..................................................................................................................5
+
+\textbf{1. TEORETICKÁ A METODICKÁ
+VÝCHODISKA}\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots.6
+
+1.1 Základní principy vývoje 2D her v
+Unity....................................................6
+
+1.2 Koncepty NoSQL databází a cloudového ukládání
+dat...................................6
+
+1.3 Metodika vývoje -- iterativní přístup a
+testování........................................6
+
+\textbf{2. VYUŽITÉ
+TECHNOLOGIE}\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots8
+
+2.1 Herní engine a základní
+knihovny...............................................................8
+
+2.2 Cloudová platforma Firebase a její hlavní
+služby.......................................8
+
+2.3 Další použité nástroje a asset
+packy..........................................................8
+
+\textbf{3 ZPŮSOBY ŘEŠENÍ A POUŽITÉ
+POSTUPY}\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots.10
+
+3.1 Návrh herních mechanik a architektury
+projektu.......................................10
+
+3.2 Implementace hráčského ovládání a systému
+životů...................................10
+
+3.3 Vytvoření boss fightu a UI
+prvků..............................................................10
+
+3.4 Integrace Firebase -- inicializace a ukládání dat a
+leaderboard\ldots\ldots\ldots\ldots.10
+
+\textbf{4 VÝSLEDKY ŘEŠENÍ, VÝSTUPY, UŽIVATELSKÝ MANUÁL}\ldots\ldots.14
+
+4.1 Finální podoba hry a dosažené
+výsledky....................................................14
+
+4.2 Uživatelský manuál -- ovládání a postup
+hry..............................................14
+
+4.3 Výstupy práce -- zdrojový kód, screenshoty,
+databáze..................................14
+
+ZÁVĚR..................................................................................................................15
+
+\textbf{SEZNAM POUŽITÝCH INFORMAČNÍCH
+ZDROJŮ}\ldots\ldots\ldots\ldots\ldots\ldots\ldots..16
+
+\textbf{ÚVOD}\\
+\strut \\
+\strut \\
+Tato závěrečná práce dokumentuje kompletní vývoj 2D akční roguelike hry
+Haunted Mound, která vznikla v herním enginu Unity. Hra je navržena jako
+intenzivní pixel-art zážitek s prvky dark fantasy. Hráč ovládá postavu v
+temném hřbitovním prostředí, kde musí přežít útoky nepřátel a na konci
+porazit finálního bosse -- Grim Reapera.
+
+Projekt zahrnuje klasické mechaniky 2D akční hry -- plynulý pohyb, skok,
+střílení, melee útoky, speciální útok havranem, systém tří srdíček
+životů přenášený mezi levely, health bar bosse, obrazovku smrti „You
+Died`` a victory screen s finálními statistikami.
+
+Klíčovou inovací je integrace cloudové databáze Firebase Firestore,
+která umožňuje ukládat statistiky každého dokončeného runu (jméno hráče,
+počet zabitých nepřátel, čas dokončení) a poskytuje základ pro globální
+leaderboard. Do leaderboardu se zapisují pouze hráči, kteří bosse
+skutečně porazí.
+
+Cílem práce bylo nejen vytvořit funkční a hratelnou hru, ale především
+detailně popsat celý vývojový proces -- od návrhu mechanik přes
+implementaci herních systémů, UI, animací a kolizí až po cloudovou
+integraci a řešení technických výzev.
+
+TEORETICKÁ A METODICKÁ VÝCHODISKA\\
+\strut \\
+\textbf{1.1 Základní principy vývoje 2D her v~Unity}
+
+unity je komponentový engine, kde každý gameobject obsahuje komponenty
+jako rigid body2d (fyzika), collider2d (kolize), animator (animace) a
+c\# skripty (logika). hlavní smyčka běží v metodách update() a
+fixedupdate(). ovládání je řešeno pomocí input.getaxisraw a getkeydown,
+animace pomocí animator controlleru s triggery a float parametry. ui je
+vytvořeno pomocí canvasu v režimu screen space -- overlay s textmeshpro.
+asynchronní operace (např. zápis do databáze) jsou řešeny pomocí
+async/await a coroutine.
+
+\textbf{1.2 Koncepty NoSQL databází a cloudového ukládání dat}
+
+firebase firestore je dokumentová nosql databáze, která umožňuje rychlé
+zápisy a čtení, realtime synchronizaci a jednoduché dotazy (orderby,
+limit). výhody pro hru: jednoduchá integrace přes unity sdk, serverový
+timestamp a škálovatelnost bez vlastního backendu. projekt využívá
+kolekci „runs`` pro ukládání statistik dokončených runů.
+
+\textbf{1.3 Metodika vývoje -- iterativní přístup a testování\\
+\strut \\
+}vývoj probíhal iterativně: nejprve prototyp pohybu a ovládání, poté
+útoky a kolize, ui prvky, boss fight, menu a nakonec firebase integrace.
+každá fáze byla testována v play módu. použity byly debug logy, manuální
+testování a firebase konzole pro ověření zápisu a čtení dat.
+
+\textbf{UNITY PROJECT PROSTŘEDÍ:}\\
+\strut \\
+\includegraphics[width=6.48254in,height=3.18013in]{vertopal_e623ec9c8bb640c499620facbb59575b/media/image3.png}
+
+fIREBASE DATABÁZE:\\
+\strut \\
+\includegraphics[width=6.11142in,height=3.66034in]{vertopal_e623ec9c8bb640c499620facbb59575b/media/image4.png}
+
+2 využité technologie
+
+2.1 herní engine a základní knihovny
+
+Hlavním nástrojem je unity 2022.3 lts (nebo novější), který poskytuje
+kompletní ekosystém pro 2d vývoj. Unity zahrnuje fyziku (rigidbody2d,
+collider2d), animace (animator controller), ui systém (canvas +
+textmeshpro) a podporu pro asynchronní operace (async/await).
+Programovací jazyk je c\#, který umožňuje psát čistý, objektově
+orientovaný kód s vysokou mírou opětovného použití komponent. Tento
+engine byl vybrán pro svou jednoduchost, rychlost vývoje a velkou
+komunitu.
+
+2.2 cloudová platforma firebase a její hlavní služby
+
+Projekt využívá google firebase -- cloud firestore jako hlavní cloudovou
+databázi. Firestore je nosql řešení s dokumentovým modelem, které
+umožňuje rychlé zápisy a čtení, realtime poslouchání změn a jednoduché
+dotazy. Klíčové služby použité v projektu: firebase app pro
+inicializaci, firestore pro ukládání a čtení dat,
+fieldvalue.servertimestamp pro přesné časové značky a query pro řazení a
+limitování leaderboardu. Firebase unity sdk (verze 12.x+) je integrován
+přes balíčky app a firestore.
+
+2.3 další použité nástroje a asset packy
+
+Grafika je tvořena pixel art sprity, které byly buď vytvořeny
+vlastnoručně, nebo získány z volně dostupných zdrojů jako opengameart a
+itch.io. Zvukové efekty a hudba jsou řešeny pomocí unity audiosource a
+volně dostupných sfx. Vývoj probíhal v editoru visual studio nebo rider,
+s verzováním pomocí git. Pro testování byly využity unity play mode,
+manuální testy v editoru a firebase konzole pro ověření zápisu a čtení
+dat.
+
+HIEARARCHIE PRVNÍ SCÉNY:
+
+\includegraphics[width=2.20865in,height=3.57342in]{vertopal_e623ec9c8bb640c499620facbb59575b/media/image5.png}\\
+\strut \\
+JEDEN Z~INSTALOVANÝCH SPRITŮ (OPENGAMEART):
+
+\includegraphics[width=6.10278in,height=3.62778in]{vertopal_e623ec9c8bb640c499620facbb59575b/media/image6.png}
+
+3 ZPŮSOBY ŘEŠENÍ A POUŽITÉ POSTUPY
+
+3.1 Návrh herních mechanik a architektury projektu
+
+Architektura je postavena na singletonu GameManager, který přežívá mezi
+scénami díky DontDestroyOnLoad. Hráč je řízen skriptem PlayerController,
+boss skriptem Boss. UI prvky jsou odděleny do canvasu.
+
+3.2 Implementace hráčského ovládání a systému životů
+
+Pohyb hráče je řešen pomocí Rigidbody2D a Input.GetAxisRaw, flip podle
+směru myši je realizován změnou transform.localScale. Skok je
+implementován jako AddForce při stisku Mezerníku a kontrole isGrounded.
+Životy hráče jsou reprezentovány třemi srdíčky (UI Image objekty), kde
+každý zásah snižuje currentHealth o 1 a volá aktualizaci v
+PlayerHearts.OnPlayerDamage(). Po dosažení 0 žívotů se spustí Die() --
+zmrazení hráče, vypnutí animací, uložení do databáze firestore.
+
+3.3 Vytvoření boss fightu a UI prvků
+
+Boss má samostatný skript s AI útoky, health barem (Image.fillAmount
+aktualizovaný při každém zásahu + TextMeshPro pro čísla) a animacemi při
+poškození. UI prvky jsou řešeny Canvasem v režimu Screen Space --
+Overlay. Srdíčka jsou umístěna v Horizontal Layout Groupu, health bar je
+v Canvasu nad bossem, You Died screen je prefab s tmavým overlayem a
+velkým textem.
+
+3.4 Integrace Firebase -- inicializace, ukládání dat a leaderboard
+
+Inicializace Firebase probíhá v samostatném skriptu FirebaseInitializer
+pomocí CheckAndFixDependenciesAsync() a FirebaseApp.DefaultInstance.
+
+Ukládání runu je asynchronní (async Task) -- po smrti hráče nebo zabití
+bosse se vytvoří Dictionary s daty (playerName, enemiesKilled,
+timeCompleted, victory, timestamp) a přidá se do kolekce „runs`` metodou
+AddAsync(). Pro diagnostiku je použit try-catch s výpisem chyb do
+konzole.
+
+Leaderboard v LeaderboardUI.cs načítá data filtrem
+WhereEqualTo("victory", true), řadí podle enemiesKilled (desc) nebo
+timeCompleted (asc) a limituje na 10 záznamů. Pro správný chod dotazů
+byly vytvořeny composite indexy v Firebase konzoli.
+
+\textbf{UKÁZKA BOSSFIGHTU:}
+
+\includegraphics[width=6.10831in,height=3.17529in]{vertopal_e623ec9c8bb640c499620facbb59575b/media/image7.png}
+
+UKÁZKA KOUSKU INSPEKTORU PLAYERA:
+
+\includegraphics[width=3.56309in,height=3.12831in]{vertopal_e623ec9c8bb640c499620facbb59575b/media/image8.png}
+
+UKÁZKA KODU (FIREBASEINITIALIZER.CS)
+
+using UnityEngine;
+
+using Firebase;
+
+using Firebase.Firestore;
+
+public class FirebaseInitializer : MonoBehaviour
+
+\{ public static FirebaseFirestore db;
+
+async void Start()
+
+\{
+
+Debug.Log("Inicializuji Firebase...");
+
+var dependencyStatus = await FirebaseApp.CheckAndFixDependenciesAsync();
+
+if (dependencyStatus == DependencyStatus.Available)
+
+\{
+
+Debug.Log("Firebase OK! Všechny závislosti jsou ready.");
+
+FirebaseApp app = FirebaseApp.DefaultInstance;
+
+db = FirebaseFirestore.DefaultInstance;
+
+Debug.Log("Firestore instance vytvořena: " + db.App.Name);
+
+\}
+
+else
+
+\{
+
+Debug.LogError("Firebase selhal! Status: " + dependencyStatus);
+
+\}
+
+\}
+
+\}\\
+\strut \\
+\strut \\
+UKÁZKA KODU (START ČÁST BOSS.CS):
+
+void Start()
+
+\{
+
+originalScale = transform.localScale;
+
+currentHealth = maxHealth;
+
+player = GameObject.FindGameObjectWithTag("Player")?.transform;
+
+if (player == null)
+
+\{
+
+Debug.LogError("Player s tagem \textquotesingle Player\textquotesingle{}
+nebyl nalezen!");
+
+\}
+
+lastTeleportTime = -teleportCooldown;
+
+lastAttackTime = -meleeCooldown;
+
+if (animator == null)
+
+animator = GetComponent\textless Animator\textgreater();
+
+animator.Play("BossIdle", -1, 0f);
+
+animator.SetFloat("Health", 1f);
+
+Debug.Log("Boss Start() kompletní \textbar{} hasSpawned: " +
+hasSpawned);
+
+\}
+
+4 výsledky řešení, výstupy, uživatelský manuál
+
+4.1 finální podoba hry a dosažené výsledky
+
+Hra je funkční s boss-fightem, ovládáním, ui a cloudovým ukládáním.
+Dosaženo: stabilní mechaniky, cloudové stats.
+
+4.2 uživatelský manuál -- ovládání a postup hry
+
+Ovládání: pohyb: a/d; skok: mezerník; střílení: lmb; melee: rmb; raven:
+q; test: t. Postup: zadej jméno → play → bojuj → po smrti „you died`` →
+try again/exit. Run se uloží (ne guest). Ukončení: exit v menu nebo
+alt+f4.
+
+4.3 možnosti dalšího rozšíření a zlepšení hry
+
+Projekt je navržen s ohledem na budoucí rozšíření. Mezi hlavní možnosti
+patří:
+
+Přidání autentizace hráčů (firebase auth -- email, google login) pro
+lepší zabezpečení zápisu dat.
+
+Vytvoření více levelů s postupným zvyšováním obtížnosti a novými
+nepřáteli.
+
+Implementace realtime multiplayer prvku (použití firebase realtime
+database pro sdílené pozice).
+
+Optimalizace pro mobilní zařízení (touch ovládání, responzivní ui).
+
+Tyto rozšíření by mohla hru posunout směrem k plnohodnotnému indie
+titulu s online prvky.
+
+ZÁVĚR
+
+Cílem projektu bylo vytvořit 2d akční hru „haunted mound`` v unity s
+boss-fightem, stabilním ovládáním a cloudovým ukládáním statistik přes
+firebase firestore. Většina cílů byla splněna: hráč má funkční pohyb,
+skok, střelbu, melee útoky a raven attack, systém tří srdíček životů,
+boss s health barem a ai, obrazovku „you died`` a menu s volbou jména
+včetně guest módu. Hra obsahuje tři levely s postupným zvyšováním
+obtížnosti, přičemž třetí level končí boss-fightem proti grim reaperovi.
+Statistiky každého runu (jméno, zabití nepřátelé, čas) se ukládají do
+cloudu a komunikace s databází je po vyřešení inicializačních problémů
+stabilní.
+
+Některé plánované cíle se nepodařilo plně zrealizovat. Vlastní hudba a
+zvukový design měly být originální, ale z časových důvodů byly použity
+volně dostupné sfx a hudba. Grafika měla být kvalitnější a plně vlastní
+pixel art, ale byla kombinována s free assety.
+
+Do budoucna lze hru rozšířit o další levely, originální soundtrack,
+detailnější grafiku, autentizaci hráčů přes firebase auth pro
+bezpečnější zápis dat nebo optimalizaci pro mobilní zařízení. Přes tyto
+nedostatky je hra plně hratelná, stabilní a představuje dobrý základ pro
+další vývoj.
+
+Seznam použitých informačních zdrojů:
+
+unity technologies. Unity documentation.
+\href{https://docs.unity3d.com}{Https://docs.unity3d.com}
+
+google. Firebase documentation -- unity sdk a cloud firestore.
+Https://firebase.goo gle.com/docs/unity
+
+textmeshpro documentation.
+\url{Https://docs.unity3d.com/packages/com.unity.textmeshpro@latest}
+
+microsoft. C\# language reference.
+\href{https://learn.microsoft.com/en-us/dotnet/csharp/}{Https://learn.microsoft.com/en-us/dotnet/csharp/}
+
+brackeys (youtube). Unity 2d tutorials (archivní série).
+\href{https://www.youtube.com/c/Brackeys}{Https://www.youtube.com/c/brackeys}
+
+blackthornprod. 2d pixel art tutorials \& game design tips.
+\href{https://www.youtube.com/c/Blackthornprod}{Https://www.youtube.com/c/blackthornprod}
+
+opengameart.org. Free pixel art sprites and assets used in the project.
+\href{https://opengameart.org}{Https://opengameart.org}
+
+itch.io. Free sfx and music resources.
+\href{https://itch.io/game-assets/free}{Https://itch.io/game-assets/free}
+
+xai -- grok asistence při vývoji, ladění kódu, řešení chyb firebase a
+strukturování dokumentace (2025--2026)
+
+stack overflow. Komunita pro řešení specifických problémů s unity a c\#
+(různé příspěvky, 2025--2026)
+
+reddit -- r/unity2d a r/firebase. Diskuze a tipy k implementaci 2d her a
+cloud integrace (2025--2026)
+
+\emph{\hfill\break
+}
+
+\end{document}
