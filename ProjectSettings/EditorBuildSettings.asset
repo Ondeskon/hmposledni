@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/level2.unity
     guid: 6cbbcb26f8f3e6b40a0d134eed609369
   - enabled: 1
+    path: Assets/Scenes/level2.5 - Copy.unity
+    guid: 7ee9f418b0c5e7b4988ec331d32fce44
+  - enabled: 1
     path: Assets/Scenes/preboss.unity
     guid: c514b9163e1bf2e44bb0097cc1507919
   - enabled: 1

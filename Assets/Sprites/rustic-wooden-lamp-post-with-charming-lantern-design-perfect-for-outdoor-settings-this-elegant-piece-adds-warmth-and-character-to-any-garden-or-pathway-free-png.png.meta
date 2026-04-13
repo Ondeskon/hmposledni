@@ -1,0 +1,3224 @@
+fileFormatVersion: 2
+guid: 58efc53270fb9c1499294b3353a37e9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4018710320491492381
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_0
+  - first:
+      213: 177621730333819061
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_1
+  - first:
+      213: -6958963688317221283
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_2
+  - first:
+      213: 5239918622220510054
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_3
+  - first:
+      213: -3639529214624875109
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_4
+  - first:
+      213: -3774606674508319811
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_5
+  - first:
+      213: 1994751423308589458
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_6
+  - first:
+      213: 2211775546694847852
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_7
+  - first:
+      213: -846939672802225482
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_8
+  - first:
+      213: 60843586839945194
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_9
+  - first:
+      213: 7655226918972818645
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_10
+  - first:
+      213: 4399560091988715951
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_11
+  - first:
+      213: -5057355836688044758
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_12
+  - first:
+      213: 100769392533540069
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_13
+  - first:
+      213: 8080765476748570231
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_14
+  - first:
+      213: -46439853353096205
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_15
+  - first:
+      213: 3698327785630166353
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_16
+  - first:
+      213: 8395447794979695300
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_17
+  - first:
+      213: -3842630113305607488
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_18
+  - first:
+      213: 3645172145291786183
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_19
+  - first:
+      213: -8714944302271963971
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_20
+  - first:
+      213: -2610927714009362311
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_21
+  - first:
+      213: -4742467671933649267
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_22
+  - first:
+      213: -5398269758389926233
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_23
+  - first:
+      213: -2255489074888665698
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_24
+  - first:
+      213: 8617203547388195649
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_25
+  - first:
+      213: 2222643646631221869
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_26
+  - first:
+      213: -6952569942219385184
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_27
+  - first:
+      213: 383793212372451399
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_28
+  - first:
+      213: -8433530504290047489
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_29
+  - first:
+      213: -8389211112909920273
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_30
+  - first:
+      213: 3570348741392898913
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_31
+  - first:
+      213: -7596293337114451317
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_32
+  - first:
+      213: -4310622155187060851
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_33
+  - first:
+      213: 5827256672125410077
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_34
+  - first:
+      213: -7629600326621945247
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_35
+  - first:
+      213: -8384677676668981515
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_36
+  - first:
+      213: -3641188590990522492
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_37
+  - first:
+      213: 1364242436070329890
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_38
+  - first:
+      213: -3890673899966784299
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_39
+  - first:
+      213: 6653552179981734023
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_40
+  - first:
+      213: -8759654530087193126
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_41
+  - first:
+      213: -6333785268919940065
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_42
+  - first:
+      213: 6647623037911608793
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_43
+  - first:
+      213: 6493689121784662835
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_44
+  - first:
+      213: 2778003812514066437
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_45
+  - first:
+      213: 1180731812352279643
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_46
+  - first:
+      213: -6584623295850385139
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_47
+  - first:
+      213: 2753237809534288170
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_48
+  - first:
+      213: 7389180997818135021
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_49
+  - first:
+      213: -9000715534707978328
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_50
+  - first:
+      213: -2589653214680972866
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_51
+  - first:
+      213: 2601270839878842990
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_52
+  - first:
+      213: -696420665740115399
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_53
+  - first:
+      213: -8528426995954961554
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_54
+  - first:
+      213: -4948191305494439646
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_55
+  - first:
+      213: 8458707100570147429
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_56
+  - first:
+      213: -3942993892434514498
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_57
+  - first:
+      213: -1496071493587384864
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_58
+  - first:
+      213: -1380127551837901251
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_59
+  - first:
+      213: 1253064819859770661
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_60
+  - first:
+      213: 8427079457481765223
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_61
+  - first:
+      213: -1234116472577747532
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_62
+  - first:
+      213: -4149215802758040746
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_63
+  - first:
+      213: -5602943901273739677
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_64
+  - first:
+      213: 2090305251600789694
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_65
+  - first:
+      213: -6510799915699864504
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_66
+  - first:
+      213: 6509416897960925524
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_67
+  - first:
+      213: 5028826312743237455
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_68
+  - first:
+      213: 9063926877412838889
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_69
+  - first:
+      213: 7531405052013847506
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_70
+  - first:
+      213: -2042091504969220271
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_71
+  - first:
+      213: -3198154903097374095
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_72
+  - first:
+      213: 5798611703003574291
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_73
+  - first:
+      213: -74191909271182680
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_74
+  - first:
+      213: -8834212123469548490
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_75
+  - first:
+      213: 2196898689273692521
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_76
+  - first:
+      213: -1413347943537917237
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_77
+  - first:
+      213: 5936595620421408340
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_78
+  - first:
+      213: 8148487503745895716
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_79
+  - first:
+      213: -5781536556463155537
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_80
+  - first:
+      213: 737130189171774108
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_81
+  - first:
+      213: 2859040004226246896
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_82
+  - first:
+      213: -9013095466331058722
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_83
+  - first:
+      213: -2672665850766600270
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_84
+  - first:
+      213: 1761298647147873539
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_85
+  - first:
+      213: -6296629496866834534
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_86
+  - first:
+      213: 4101254309871596139
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_87
+  - first:
+      213: -6772360977699494661
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_88
+  - first:
+      213: 5092297865695763884
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_89
+  - first:
+      213: 3774931168942678117
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_90
+  - first:
+      213: 1960248977788474300
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_91
+  - first:
+      213: 7612134698841493608
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_92
+  - first:
+      213: 3493724325331660133
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_93
+  - first:
+      213: 4424104616443956507
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_94
+  - first:
+      213: 529142082404159961
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_95
+  - first:
+      213: 4927025421558676622
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_96
+  - first:
+      213: -3230420147665494017
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_97
+  - first:
+      213: -1929756371220323386
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_98
+  - first:
+      213: -5404344044989819565
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_99
+  - first:
+      213: -1057951936059152171
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_100
+  - first:
+      213: -5409231382567642335
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_101
+  - first:
+      213: -4273350805537021375
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_102
+  - first:
+      213: -5913054331948513965
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_103
+  - first:
+      213: -8517776565264533578
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_104
+  - first:
+      213: -6659406021927116021
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_105
+  - first:
+      213: -1005524963934334944
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_106
+  - first:
+      213: -5661740512891734625
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_107
+  - first:
+      213: -7834925511369254955
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_108
+  - first:
+      213: -5657900518686899359
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_109
+  - first:
+      213: -282457603826179479
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_110
+  - first:
+      213: 3615340372741465788
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_111
+  - first:
+      213: -7820256358964139962
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_112
+  - first:
+      213: -3455467208523183273
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_113
+  - first:
+      213: 1481110763996560608
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_114
+  - first:
+      213: -8511480055275355175
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_115
+  - first:
+      213: 9108459381924285064
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_116
+  - first:
+      213: 5475483761947613249
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_117
+  - first:
+      213: -2761106919699166429
+    second: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 211
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1477149eb355c730800000000000000
+      internalID: 4018710320491492381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 334
+        width: 129
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b000fcc50a077200800000000000000
+      internalID: 177621730333819061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 298
+        width: 103
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d568209456bcc6f90800000000000000
+      internalID: -6958963688317221283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 308
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6636861893ee7b840800000000000000
+      internalID: 5239918622220510054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9db0ac567bcd7dc0800000000000000
+      internalID: -3639529214624875109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 295
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3fc1f6a37ed9bc0800000000000000
+      internalID: -3774606674508319811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 297
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2996381d9d7ceab10800000000000000
+      internalID: 1994751423308589458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 303
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d44a7242ec1be10800000000000000
+      internalID: 2211775546694847852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 296
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b21078dad01f34f0800000000000000
+      internalID: -846939672802225482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 303
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef947c7be828d000800000000000000
+      internalID: 60843586839945194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 297
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4026cd254dc3a60800000000000000
+      internalID: 7655226918972818645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 297
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9e8f208906e0d30800000000000000
+      internalID: 4399560091988715951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de57b59a9a0d9b0800000000000000
+      internalID: -5057355836688044758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 285
+        width: 104
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec81368a31066100800000000000000
+      internalID: 100769392533540069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 259
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ea6da2365a42070800000000000000
+      internalID: 8080765476748570231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 275
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fba77d03330b5ff0800000000000000
+      internalID: -46439853353096205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 275
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d6175c689135330800000000000000
+      internalID: 3698327785630166353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 253
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cae91ed94f928470800000000000000
+      internalID: 8395447794979695300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 253
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c24335654c3caac0800000000000000
+      internalID: -3842630113305607488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 262
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7f341d0c0469230800000000000000
+      internalID: 3645172145291786183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 236
+        width: 153
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcd3c1b45c4e0780800000000000000
+      internalID: -8714944302271963971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 246
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970df30d31f14cbd0800000000000000
+      internalID: -2610927714009362311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 247
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8efe9f67ce5f2eb0800000000000000
+      internalID: -4742467671933649267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a64f69814e7515b0800000000000000
+      internalID: -5398269758389926233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 248
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e959c70f2a4e2b0e0800000000000000
+      internalID: -2255489074888665698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1433f4f68f4769770800000000000000
+      internalID: 8617203547388195649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 226
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a9bbbde9a68de10800000000000000
+      internalID: 2222643646631221869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 226
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a694fd4972838f90800000000000000
+      internalID: -6952569942219385184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 226
+        width: 109
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7408aaaa4e1835500800000000000000
+      internalID: 383793212372451399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 200
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9ee5960b416fa80800000000000000
+      internalID: -8433530504290047489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7ae35d0f8839b80800000000000000
+      internalID: -8389211112909920273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 204
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b9cf6834d6c8130800000000000000
+      internalID: 3570348741392898913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 204
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8260afe47b849690800000000000000
+      internalID: -7596293337114451317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 213
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f752f0df79d24c0800000000000000
+      internalID: -4310622155187060851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 187
+        width: 153
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b5f05b1139ed050800000000000000
+      internalID: 5827256672125410077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162ae712de63e1690800000000000000
+      internalID: -7629600326621945247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe6ff5b314a3ab80800000000000000
+      internalID: -8384677676668981515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 199
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4870ec1b446e77dc0800000000000000
+      internalID: -3641188590990522492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e4c7d7443cee210800000000000000
+      internalID: 1364242436070329890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_39
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 198
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc989f93bc810ac0800000000000000
+      internalID: -3890673899966784299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7805656a47a265c50800000000000000
+      internalID: 6653552179981734023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5f2039d947f6680800000000000000
+      internalID: -8759654530087193126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ccc621bdfd918a0800000000000000
+      internalID: -6333785268919940065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 176
+        width: 153
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddac6faee9114c50800000000000000
+      internalID: 6647623037911608793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_44
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 155
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b0bc9e9d73e1a50800000000000000
+      internalID: 6493689121784662835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_45
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 149
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500f49dbfb37d8620800000000000000
+      internalID: 2778003812514066437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 160
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54c24ad35dc26010800000000000000
+      internalID: 1180731812352279643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_47
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 164
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01731fcff7be94a0800000000000000
+      internalID: -6584623295850385139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_48
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 149
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2147735337753620800000000000000
+      internalID: 2753237809534288170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_49
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 155
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1340cc7f4ab8660800000000000000
+      internalID: 7389180997818135021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 164
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af0465b8e8071380800000000000000
+      internalID: -9000715534707978328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 149
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb10e7f2f14bf0cd0800000000000000
+      internalID: -2589653214680972866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_52
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a7f87fb02991420800000000000000
+      internalID: 2601270839878842990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 149
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932c1542811d556f0800000000000000
+      internalID: -696420665740115399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_54
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63b04d25d0f4a980800000000000000
+      internalID: -8528426995954961554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229d35b693e745bb0800000000000000
+      internalID: -4948191305494439646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 149
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ade84ba4d536570800000000000000
+      internalID: 8458707100570147429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_57
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebde7e912fba749c0800000000000000
+      internalID: -3942993892434514498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 149
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5c22237e2ec3be0800000000000000
+      internalID: -1496071493587384864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 137
+        width: 153
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ee8f7cd4dc8dce0800000000000000
+      internalID: -1380127551837901251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_60
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 153
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dc74c80d7c36110800000000000000
+      internalID: 1253064819859770661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 111
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76131353e1003f470800000000000000
+      internalID: 8427079457481765223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_62
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b59b885b998fdee0800000000000000
+      internalID: -1234116472577747532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_63
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 111
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6537b2cf5360b66c0800000000000000
+      internalID: -4149215802758040746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 111
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e232c15385e32b0800000000000000
+      internalID: -5602943901273739677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_65
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 111
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07cc92d81420d10800000000000000
+      internalID: 2090305251600789694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_66
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 100
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cf01de8fdf4a5a0800000000000000
+      internalID: -6510799915699864504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_67
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 100
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459d2e92e28165a50800000000000000
+      internalID: 6509416897960925524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_68
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 100
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b23833eaf9c540800000000000000
+      internalID: 5028826312743237455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edce46e87989cd70800000000000000
+      internalID: 9063926877412838889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_70
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 100
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d32ed0edfce48860800000000000000
+      internalID: 7531405052013847506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_71
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 100
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f777f789809a3e0800000000000000
+      internalID: -2042091504969220271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_72
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a05386f0fdd93d0800000000000000
+      internalID: -3198154903097374095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 100
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31073fb1f9ec87050800000000000000
+      internalID: 5798611703003574291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_74
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 100
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2eea20ada68fef0800000000000000
+      internalID: -74191909271182680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_75
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634f52e11e2966580800000000000000
+      internalID: -8834212123469548490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_76
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 88
+        width: 153
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9610eadd7b3fc7e10800000000000000
+      internalID: 2196898689273692521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_77
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 78
+        width: 153
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2c4699887c26ce0800000000000000
+      internalID: -1413347943537917237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_78
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 65
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569b5a6346036250800000000000000
+      internalID: 5936595620421408340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_79
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 62
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dcb7d463e351170800000000000000
+      internalID: 8148487503745895716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_80
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 50
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa61410422bd3cfa0800000000000000
+      internalID: -5781536556463155537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_81
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 65
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92dcc66000da3a00800000000000000
+      internalID: 737130189171774108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_82
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 62
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8698a6cb95da720800000000000000
+      internalID: 2859040004226246896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_83
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd47a24d6d0be280800000000000000
+      internalID: -9013095466331058722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_84
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 56
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b75db1b198c8ead0800000000000000
+      internalID: -2672665850766600270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_85
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 57
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30500aea9c3617810800000000000000
+      internalID: 1761298647147873539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_86
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 62
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97710565d0ed98a0800000000000000
+      internalID: -6296629496866834534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_87
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 65
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62bf61c0159ae830800000000000000
+      internalID: 4101254309871596139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_88
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf42181829db302a0800000000000000
+      internalID: -6772360977699494661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_89
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad964fbde97ba640800000000000000
+      internalID: 5092297865695763884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_90
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560e060d5ef336430800000000000000
+      internalID: 3774931168942678117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb397683f04343b10800000000000000
+      internalID: 1960248977788474300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8605fd28d2cb3a960800000000000000
+      internalID: 7612134698841493608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_93
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56de88a63c33c7030800000000000000
+      internalID: 3493724325331660133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_94
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 51
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dce4075b3956d30800000000000000
+      internalID: 4424104616443956507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_95
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d11961abe3e75700800000000000000
+      internalID: 529142082404159961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_96
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cf253348f406440800000000000000
+      internalID: 4927025421558676622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_97
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff122fbdfd3b23d0800000000000000
+      internalID: -3230420147665494017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_98
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 51
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3ad5efdc02835e0800000000000000
+      internalID: -1929756371220323386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_99
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355526a79b9eff4b0800000000000000
+      internalID: -5404344044989819565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_100
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 39
+        width: 154
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8e1c5c1566151f0800000000000000
+      internalID: -1057951936059152171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_101
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 153
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b192687bc8ee4b0800000000000000
+      internalID: -5409231382567642335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_102
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 13
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1422653651202b4c0800000000000000
+      internalID: -4273350805537021375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_103
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 13
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355cf9ee96c90fda0800000000000000
+      internalID: -5913054331948513965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7b24fc757cac980800000000000000
+      internalID: -8517776565264533578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_105
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03efef81890593a0800000000000000
+      internalID: -6659406021927116021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_106
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 7
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02018ef6f58ab02f0800000000000000
+      internalID: -1005524963934334944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9576ae20057d61b0800000000000000
+      internalID: -5661740512891734625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_108
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7903532c0c44390800000000000000
+      internalID: -7834925511369254955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_109
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1634b2184791b71b0800000000000000
+      internalID: -5657900518686899359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_110
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96225db4e42841cf0800000000000000
+      internalID: -282457603826179479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb622630ae44c2230800000000000000
+      internalID: 3615340372741465788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_112
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e377664ed87390800000000000000
+      internalID: -7820256358964139962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_113
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b07f6b1e6bb00d0800000000000000
+      internalID: -3455467208523183273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_114
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecb5018466fd8410800000000000000
+      internalID: 1481110763996560608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_115
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d38d784cf521e980800000000000000
+      internalID: -8511480055275355175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_116
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88acba69c8fb76e70800000000000000
+      internalID: 9108459381924285064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_117
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1489e4c9873dcfb40800000000000000
+      internalID: 5475483761947613249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_118
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b4570b2e39ea9d0800000000000000
+      internalID: -2761106919699166429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_0: 4018710320491492381
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_1: 177621730333819061
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_10: 7655226918972818645
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_100: -1057951936059152171
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_101: -5409231382567642335
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_102: -4273350805537021375
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_103: -5913054331948513965
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_104: -8517776565264533578
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_105: -6659406021927116021
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_106: -1005524963934334944
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_107: -5661740512891734625
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_108: -7834925511369254955
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_109: -5657900518686899359
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_11: 4399560091988715951
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_110: -282457603826179479
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_111: 3615340372741465788
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_112: -7820256358964139962
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_113: -3455467208523183273
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_114: 1481110763996560608
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_115: -8511480055275355175
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_116: 9108459381924285064
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_117: 5475483761947613249
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_118: -2761106919699166429
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_12: -5057355836688044758
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_13: 100769392533540069
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_14: 8080765476748570231
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_15: -46439853353096205
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_16: 3698327785630166353
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_17: 8395447794979695300
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_18: -3842630113305607488
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_19: 3645172145291786183
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_2: -6958963688317221283
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_20: -8714944302271963971
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_21: -2610927714009362311
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_22: -4742467671933649267
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_23: -5398269758389926233
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_24: -2255489074888665698
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_25: 8617203547388195649
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_26: 2222643646631221869
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_27: -6952569942219385184
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_28: 383793212372451399
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_29: -8433530504290047489
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_3: 5239918622220510054
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_30: -8389211112909920273
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_31: 3570348741392898913
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_32: -7596293337114451317
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_33: -4310622155187060851
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_34: 5827256672125410077
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_35: -7629600326621945247
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_36: -8384677676668981515
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_37: -3641188590990522492
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_38: 1364242436070329890
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_39: -3890673899966784299
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_4: -3639529214624875109
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_40: 6653552179981734023
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_41: -8759654530087193126
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_42: -6333785268919940065
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_43: 6647623037911608793
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_44: 6493689121784662835
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_45: 2778003812514066437
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_46: 1180731812352279643
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_47: -6584623295850385139
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_48: 2753237809534288170
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_49: 7389180997818135021
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_5: -3774606674508319811
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_50: -9000715534707978328
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_51: -2589653214680972866
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_52: 2601270839878842990
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_53: -696420665740115399
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_54: -8528426995954961554
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_55: -4948191305494439646
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_56: 8458707100570147429
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_57: -3942993892434514498
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_58: -1496071493587384864
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_59: -1380127551837901251
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_6: 1994751423308589458
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_60: 1253064819859770661
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_61: 8427079457481765223
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_62: -1234116472577747532
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_63: -4149215802758040746
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_64: -5602943901273739677
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_65: 2090305251600789694
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_66: -6510799915699864504
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_67: 6509416897960925524
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_68: 5028826312743237455
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_69: 9063926877412838889
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_7: 2211775546694847852
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_70: 7531405052013847506
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_71: -2042091504969220271
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_72: -3198154903097374095
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_73: 5798611703003574291
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_74: -74191909271182680
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_75: -8834212123469548490
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_76: 2196898689273692521
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_77: -1413347943537917237
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_78: 5936595620421408340
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_79: 8148487503745895716
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_8: -846939672802225482
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_80: -5781536556463155537
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_81: 737130189171774108
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_82: 2859040004226246896
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_83: -9013095466331058722
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_84: -2672665850766600270
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_85: 1761298647147873539
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_86: -6296629496866834534
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_87: 4101254309871596139
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_88: -6772360977699494661
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_89: 5092297865695763884
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_9: 60843586839945194
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_90: 3774931168942678117
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_91: 1960248977788474300
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_92: 7612134698841493608
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_93: 3493724325331660133
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_94: 4424104616443956507
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_95: 529142082404159961
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_96: 4927025421558676622
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_97: -3230420147665494017
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_98: -1929756371220323386
+      rustic-wooden-lamp-post-with-charming-lantern-design-perfect-for-outdoor-settings-this-elegant-piece-adds-warmth-and-character-to-any-garden-or-pathway-free-png_99: -5404344044989819565
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

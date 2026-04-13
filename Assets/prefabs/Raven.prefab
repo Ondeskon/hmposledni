@@ -170,6 +170,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RavenAttack
   idleHoverDistance: 2
   diveSpeed: 15
-  returnSpeed: 20
+  returnSpeed: 30
   damage: 30
   attackRange: 5

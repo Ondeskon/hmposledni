@@ -80,30 +80,41 @@ public class RavenAttack : MonoBehaviour
 
         // Dive to enemy
         Vector3 startPos = transform.position;
-        float diveTime = 0;
+        float diveTime = 0f;
+
         while (diveTime < 1f)
         {
             transform.position = Vector3.Lerp(startPos, enemy.position, diveTime);
             diveTime += Time.deltaTime * diveSpeed;
             yield return null;
         }
+
+        // Snap to enemy position
         transform.position = enemy.position;
 
-        // Check for collision manually since we're not using trigger colliders
-        Collider2D enemyCollider = enemy.GetComponent<Collider2D>();
-        if (enemyCollider != null)
+        // === NEW SIMPLE DAMAGE SYSTEM ===
+        // Try Stalker first
+        Stalker stalker = enemy.GetComponent<Stalker>();
+        if (stalker != null)
         {
+            stalker.TakeDamage(damage);                    // Simple TakeDamage
+            Debug.Log("Raven killed a Stalker!");
+        }
+        else
+        {
+            // Normal enemy
             EnemyController enemyController = enemy.GetComponent<EnemyController>();
             if (enemyController != null)
             {
                 enemyController.TakeDamage(damage);
-                Debug.Log($"Raven dealt {damage} damage!");
+                Debug.Log($"Raven dealt {damage} damage to normal enemy!");
             }
         }
 
         // Return to player
-        float returnTime = 0;
+        float returnTime = 0f;
         Vector3 returnTarget = player.position + Vector3.up * idleHoverDistance;
+
         while (returnTime < 1f)
         {
             transform.position = Vector3.Lerp(transform.position, returnTarget, returnTime);
