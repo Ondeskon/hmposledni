@@ -57,14 +57,17 @@ public class NameMenuController : MonoBehaviour
 
     public void ConfirmName()
     {
+        Debug.Log("=== CONFIRM BUTTON WAS CLICKED ===");   // ← Toto musíš vidět v konzoli
+
         if (GameManager.Instance == null)
         {
-            Debug.LogWarning("GameManager.Instance není dostupný!");
+            Debug.LogError("GameManager.Instance is NULL! Cannot set player name.");
             ShowMainMenu();
             return;
         }
 
-        string name = "";
+        string name = "Guest"; // default
+
         if (nameInput != null)
         {
             name = nameInput.text.Trim();
@@ -73,8 +76,9 @@ public class NameMenuController : MonoBehaviour
         if (string.IsNullOrEmpty(name))
             name = "Guest";
 
-        GameManager.Instance.playerName = name;
-        Debug.Log("Nastaveno jméno: " + name);
+        GameManager.Instance.SetPlayerName(name);   // ← Lepší použít metodu místo přímého přístupu
+
+        Debug.Log("Jméno úspěšně nastaveno na: " + name);
 
         ShowMainMenu();
     }

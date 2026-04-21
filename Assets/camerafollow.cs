@@ -8,11 +8,11 @@ public class CameraFollow : MonoBehaviour
     [Header("Smoothness")]
     public float smoothSpeed = 0.125f;
 
-    [Header("Camera Limits")]
-    public float minX = -5f;
-    public float maxX = 45f;        // ← Change this to the end of your level
-    public float minY = -10f;
-    public float maxY = 10f;
+    // Current limits (will be changed per level)
+    private float minX = -10f;
+    private float maxX = 50f;
+    private float minY = -10f;
+    private float maxY = 10f;
 
     private Vector3 offset;
 
@@ -37,5 +37,15 @@ public class CameraFollow : MonoBehaviour
 
         Vector3 smoothedPosition = Vector3.Lerp(transform.position, clampedPosition, smoothSpeed);
         transform.position = smoothedPosition;
+    }
+
+    // Public method to change limits from other scripts (e.g. Level Loader)
+    public void SetCameraLimits(float newMinX, float newMaxX, float newMinY = -10f, float newMaxY = 10f)
+    {
+        minX = newMinX;
+        maxX = newMaxX;
+        minY = newMinY;
+        maxY = newMaxY;
+        Debug.Log($"Camera limits updated → MinX: {minX}, MaxX: {maxX}");
     }
 }

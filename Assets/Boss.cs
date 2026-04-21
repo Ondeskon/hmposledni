@@ -9,9 +9,9 @@ public class Boss : MonoBehaviour
     public float moveSpeed = 2f;
 
     [Header("Teleport")]
-    public float teleportCooldown = 5f;
+    public float teleportCooldown = 4f;
     public float minDistanceFromPlayer = 3f;
-    public float maxDistanceFromPlayer = 5f;
+    public float maxDistanceFromPlayer = 6f;
     public float platformMinX = -12f;
     public float platformMaxX = 28f;
     public float bossHeight = 2f;
@@ -29,7 +29,7 @@ public class Boss : MonoBehaviour
     public GameObject winningScreenPrefab;
 
     [Header("Death Animation Timing")]
-    public float deathAnimationLength = 3.5f; // ← ZDE NASTAV PŘESNOU DÉLKU DEATH ANIMACE
+    public float deathAnimationLength = 3.5f;
 
     private Transform player;
     private float lastTeleportTime;
@@ -46,27 +46,67 @@ public class Boss : MonoBehaviour
         lastTeleportTime = -teleportCooldown;
         lastAttackTime = -meleeCooldown;
     }
-
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player")?.transform;
         if (player == null) Debug.LogError("Boss: Player not found!");
 
         if (animator == null)
-        {
             animator = GetComponent<Animator>();
-            if (animator == null) Debug.LogError("Animator chybí!");
-        }
 
         animator.Play("BossIdle", -1, 0f);
         animator.SetFloat("Health", 1f);
+
+        // --- POJISTKA: Nastav bar na 100% hned po startu ---
+        UpdateUI();
+
+        // Pokud nemáš jiný skript (Intro), co spouští bosse, odkomentuj tenhle řádek:
+        // StartBossAI(); 
     }
 
     public void StartBossAI()
     {
         if (hasSpawned) return;
         hasSpawned = true;
-        Debug.Log("*** BOSS AI SPUNŠTĚNO! ***");
+
+        // Spustíme proces s čekáním (změň 3.0f na délku tvého zoomu)
+        StartCoroutine(DelayedUIAppearance(0f));
+
+        Debug.Log("*** BOSS AI STARTED! ***");
+    }
+
+    private IEnumerator DelayedUIAppearance(float delay)
+    {
+        // Najde HealthBar, i když je v Inspektoru vypnutý (neaktivní)
+        BossHealthBar healthBar = FindFirstObjectByType<BossHealthBar>(FindObjectsInactive.Include);
+
+        if (healthBar != null)
+        {
+            // Počkáme na konec intra
+            yield return new WaitForSeconds(delay);
+
+            // Zapneme UI objekt
+            healthBar.gameObject.SetActive(true);
+
+            // Nastavíme správnou hodnotu hned při zapnutí
+            healthBar.UpdateHealthBar(currentHealth, maxHealth);
+
+            Debug.Log("Boss UI se aktivovalo se zpožděním!");
+        }
+        else
+        {
+            Debug.LogError("BossHealthBar nebyl ve scéně nalezen!");
+        }
+    }
+
+    // Pomocná metoda, ať nemusíš psát ten Find pokaždé
+    private void UpdateUI()
+    {
+        BossHealthBar healthBar = FindFirstObjectByType<BossHealthBar>();
+        if (healthBar != null)
+        {
+            healthBar.UpdateHealthBar(currentHealth, maxHealth);
+        }
     }
 
     void Update()
@@ -76,6 +116,7 @@ public class Boss : MonoBehaviour
         MoveTowardsPlayer();
 
         float distanceToPlayer = Vector2.Distance(transform.position, player.position);
+
         if (distanceToPlayer <= meleeRange && Time.time > lastAttackTime + meleeCooldown)
         {
             StartCoroutine(MeleeAttack());
@@ -84,16 +125,27 @@ public class Boss : MonoBehaviour
 
     void MoveTowardsPlayer()
     {
+        if (player == null || isAttacking || isDead) return;
+
         Vector2 direction = (player.position - transform.position).normalized;
+
+        // Normal movement without hard clamping
         transform.position += new Vector3(direction.x * moveSpeed * Time.deltaTime, 0, 0);
 
-        transform.position = new Vector3(
-            Mathf.Clamp(transform.position.x, platformMinX, platformMaxX),
-            bossHeight,
-            transform.position.z
-        );
+        // Very soft safety correction - only if he's clearly outside the platform
+        float currentX = transform.position.x;
 
-        float facing = direction.x > 0 ? 1 : -1;
+        if (currentX < platformMinX + 0.5f)
+        {
+            transform.position = new Vector3(platformMinX + 2f, bossHeight, transform.position.z);
+        }
+        else if (currentX > platformMaxX - 0.5f)
+        {
+            transform.position = new Vector3(platformMaxX - 2f, bossHeight, transform.position.z);
+        }
+
+        // Face the player
+        float facing = direction.x > 0 ? 1f : -1f;
         transform.localScale = new Vector3(facing * Mathf.Abs(originalScale.x), originalScale.y, originalScale.z);
     }
 
@@ -106,94 +158,80 @@ public class Boss : MonoBehaviour
         if (animator != null)
             animator.SetTrigger("Swing");
 
-        // Detekce hned na začátku animace (když boss začíná švihat)
-        yield return new WaitForSeconds(0.1f); // malý delay, aby se animace spustila
+        // Wait a bit for swing animation to start
+        yield return new WaitForSeconds(0.35f);
 
-        PerformMeleeHit(); // první kontrola (začátek švihu)
+        // Perform the actual hit
+        PerformMeleeHit();
 
-        yield return new WaitForSeconds(0.4f); // zbytek animace
-
-        PerformMeleeHit(); // druhá kontrola (konec švihu – největší síla)
-
-        yield return new WaitForSeconds(0.3f); // malý follow-through
-
-        TeleportBehindPlayerImmediate();
+        // After attack → teleport behind player
+        yield return new WaitForSeconds(0.4f);
+        TeleportBehindPlayer();
 
         isAttacking = false;
-        Debug.Log("Melee útok dokončen – boss může pokračovat v pohybu");
+        Debug.Log("Melee attack finished - boss can move again");
     }
 
-    // Nová pomocná metoda – vyčistí kód
     private void PerformMeleeHit()
     {
         if (attackPoint == null)
         {
-            Debug.LogError("AttackPoint na bossovi je NULL – útok selhal!");
+            Debug.LogError("AttackPoint is NULL!");
             return;
         }
 
-        Vector2 attackPos = attackPoint.position;
-        float currentRange = meleeRange; // můžeš dynamicky měnit range během animace
-
-        Debug.Log($"Melee hit check: Pos = {attackPos}, Player Pos = {player.position}, Distance = {Vector2.Distance(attackPos, player.position)}, Range = {currentRange}");
-
-        Collider2D[] hits = Physics2D.OverlapCircleAll(
-            attackPos,
-            currentRange,
-            LayerMask.GetMask("Player")
-        );
-
-        Debug.Log($"Hits nalezeno: {hits.Length}");
+        Collider2D[] hits = Physics2D.OverlapCircleAll(attackPoint.position, meleeRange, LayerMask.GetMask("Player"));
 
         foreach (Collider2D hit in hits)
         {
-            Debug.Log($"Zasažen: {hit.name} | Layer: {LayerMask.LayerToName(hit.gameObject.layer)}");
-
             PlayerController p = hit.GetComponent<PlayerController>();
             if (p != null)
             {
-                p.TakeDamage(1);
-                Debug.Log("*** BOSS ZASÁHL HRÁČE – 1 srdíčko ubráno! ***");
-            }
-            else
-            {
-                Debug.LogWarning("Hit na Player layeru, ale bez PlayerController!");
+                p.TakeDamage(meleeDamage);
+                Debug.Log("Boss hit the player with melee!");
             }
         }
     }
-
-    void TeleportBehindPlayerImmediate()
+    private void TeleportBehindPlayer()
     {
         if (Time.time < lastTeleportTime + teleportCooldown) return;
 
         lastTeleportTime = Time.time;
 
-        Rigidbody2D rb = GetComponent<Rigidbody2D>();
-        if (rb != null) rb.linearVelocity = Vector2.zero;
-
         float offset = Random.Range(minDistanceFromPlayer, maxDistanceFromPlayer);
-        float targetX = player.position.x + (player.localScale.x > 0 ? offset : -offset);
-        targetX = Mathf.Clamp(targetX, platformMinX + 2f, platformMaxX - 2f);
+        float targetX = player.position.x + (player.localScale.x > 0 ? -offset : offset);
+
+        // Very soft clamping
+        targetX = Mathf.Clamp(targetX, platformMinX + 2.5f, platformMaxX - 2.5f);
 
         transform.position = new Vector3(targetX, bossHeight, transform.position.z);
 
+        // Force correct facing
         Vector2 direction = (player.position - transform.position).normalized;
-        float facing = direction.x > 0 ? 1 : -1;
+        float facing = direction.x > 0 ? 1f : -1f;
         transform.localScale = new Vector3(facing * Mathf.Abs(originalScale.x), originalScale.y, originalScale.z);
-    }
 
+        Debug.Log($"Boss teleported behind player at X = {targetX}");
+    }
     public void TakeDamage(int dmg)
     {
         if (isDead) return;
 
         currentHealth -= dmg;
-        Debug.Log($"Boss HP: {currentHealth}/{maxHealth}");
+        Debug.Log($"Boss took {dmg} damage. HP left: {currentHealth}/{maxHealth}");
 
+        // Safe way to trigger "Hurt" animation
         if (animator != null)
-            animator.SetFloat("Health", (float)currentHealth / maxHealth);
+        {
+            animator.SetTrigger("Hurt");     // This is fine even if the trigger doesn't exist (Unity just ignores it)
+        }
 
+        // Update health bar
         BossHealthBar healthBar = FindFirstObjectByType<BossHealthBar>();
-        if (healthBar != null) healthBar.UpdateHealthBar();
+        if (healthBar != null)
+            healthBar.UpdateHealthBar(currentHealth, maxHealth); // Teď mu posíláš ty informace
+
+        UpdateUI();
 
         if (currentHealth <= 0)
             Die();
@@ -202,62 +240,27 @@ public class Boss : MonoBehaviour
     void Die()
     {
         if (isDead) return;
-
         isDead = true;
-        Debug.Log("Boss died!");
 
-        if (animator != null)
-        {
-            animator.SetTrigger("Death");
-            Debug.Log("Death trigger spuštěn");
-        }
+        Debug.Log("Boss died!");
+        if (animator != null) animator.SetTrigger("Death");
 
         Collider2D col = GetComponent<Collider2D>();
         if (col != null) col.enabled = false;
 
-        if (GameManager.Instance != null)
-        {
-            GameManager.Instance.playerName += " (VICTORY)";
-            _ = GameManager.Instance.EndRunAsync(true);
-            Debug.Log($"Boss zemřel – stats v GameManageru před spawnem screenu: enemiesKilled = {GameManager.Instance.enemiesKilled}, runTime = {GameManager.Instance.runTime:F1}s");
-        }
+        this.enabled = false;
 
         StartCoroutine(ShowWinningScreenAfterAnimation());
     }
 
     private IEnumerator ShowWinningScreenAfterAnimation()
     {
-        Debug.Log($"Čekám {deathAnimationLength} sekund na dokončení death animace");
         yield return new WaitForSeconds(deathAnimationLength);
 
-        if (animator != null)
+        if (winningScreenPrefab != null)
         {
-            animator.enabled = false;
-            Debug.Log("Animator vypnutý");
-        }
-
-        if (winningScreenPrefab == null)
-        {
-            Debug.LogError("WinningScreenPrefab není nastavený!");
-            yield break;
-        }
-
-        GameObject victory = Instantiate(winningScreenPrefab);
-        victory.SetActive(true);
-        Debug.Log("Winning Screen spawned!");
-
-        // Malý delay, aby se data stihla aktualizovat (Unity někdy potřebuje frame)
-        yield return null;
-
-        VictoryScreen victoryScript = victory.GetComponent<VictoryScreen>();
-        if (victoryScript != null)
-        {
-            victoryScript.UpdateStats();
-            Debug.Log("VictoryScreen stats aktualizovány!");
-        }
-        else
-        {
-            Debug.LogWarning("VictoryScreen script chybí na prefabu winning screenu!");
+            Instantiate(winningScreenPrefab);
+            Debug.Log("Winning Screen spawned!");
         }
     }
 

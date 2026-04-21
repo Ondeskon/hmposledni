@@ -25,6 +25,12 @@ public class LeaderboardUI : MonoBehaviour
     public Button sortButton; // ← Přetáhni tlačítko pro sortování sem
     public TextMeshProUGUI sortButtonText; // ← TextMeshPro uvnitř tlačítka (přetáhni)
 
+    [Header("Camera Zoom")]
+public Camera mainCamera;           // Drag your Main Camera here in Inspector
+    public float normalFOV = 60f;       // Normal camera size when playing
+    public float leaderboardFOV = 75f;  // Bigger view when leaderboard is open
+    private float defaultFOV;
+
     private FirebaseFirestore db;
     private bool sortByEnemies = true; // true = enemies desc, false = time asc
 
@@ -40,6 +46,10 @@ public class LeaderboardUI : MonoBehaviour
         {
             Debug.LogWarning("SortButton reference chybí – přetáhni tlačítko do Inspectoru!");
         }
+        if (mainCamera == null)
+            mainCamera = Camera.main;
+
+        defaultFOV = mainCamera.fieldOfView;
 
         // Spusť načítání s malým delayem
         Invoke(nameof(TryLoadLeaderboard), 1f);
@@ -86,22 +96,31 @@ public class LeaderboardUI : MonoBehaviour
 
     public void ToggleLeaderboard()
     {
-        if (leaderboardPanel == null)
+        if (leaderboardPanel == null) return;
+
+        bool isOpening = !leaderboardPanel.activeSelf;
+
+        leaderboardPanel.SetActive(isOpening);
+
+        if (mainCamera != null)
         {
-            Debug.LogError("LeaderboardPanel reference chybí!");
-            return;
+            if (isOpening)
+            {
+                // Zoom out when opening leaderboard
+                mainCamera.fieldOfView = leaderboardFOV;
+                Debug.Log("Camera zoomed out for leaderboard");
+            }
+            else
+            {
+                // Return to normal when closing
+                mainCamera.fieldOfView = defaultFOV;
+                Debug.Log("Camera returned to normal");
+            }
         }
 
-        Debug.Log("ToggleLeaderboard voláno! Panel active: " + leaderboardPanel.activeSelf);
-
-        if (leaderboardPanel.activeSelf)
+        if (isOpening)
         {
-            leaderboardPanel.SetActive(false);
-        }
-        else
-        {
-            leaderboardPanel.SetActive(true);
-            _ = LoadLeaderboard(); // Načti vždy při otevření
+            _ = LoadLeaderboard();   // Load data when opening
         }
     }
 
@@ -148,8 +167,7 @@ public class LeaderboardUI : MonoBehaviour
 
         // Nastav query – jen dokončené runy + sort podle aktuálního módu
         Query query = db.Collection("runs")
-            .WhereEqualTo("victory", true);  // ← KLÍČOVÁ ZMĚNA: jen vítězové
-
+            .WhereEqualTo("victory", true);
         if (sortByEnemies)
         {
             query = query.OrderByDescending("enemiesKilled");
@@ -158,7 +176,6 @@ public class LeaderboardUI : MonoBehaviour
         {
             query = query.OrderBy("timeCompleted");
         }
-
         query = query.Limit(10);
 
         QuerySnapshot snapshot = await query.GetSnapshotAsync();
@@ -181,6 +198,9 @@ public class LeaderboardUI : MonoBehaviour
             Dictionary<string, object> data = doc.ToDictionary();
 
             string name = data.ContainsKey("playerName") ? data["playerName"].ToString() : "Unknown";
+
+            // Odstraníme (VICTORY) pokud tam je
+            name = name.Replace(" (VICTORY)", "").Replace("(VICTORY)", "").Trim();
             long kills = data.ContainsKey("enemiesKilled") ? (long)data["enemiesKilled"] : 0;
             double time = data.ContainsKey("timeCompleted") ? (double)data["timeCompleted"] : 0;
 

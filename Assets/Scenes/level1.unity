@@ -380,8 +380,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Time: 00:00'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1a6393fc6ce474f45ac808d8817a6434, type: 2}
+  m_sharedMaterial: {fileID: 5686005339455658193, guid: 1a6393fc6ce474f45ac808d8817a6434, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -474,7 +474,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 713, y: 375}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &464340646
 GameObject:
@@ -609,9 +609,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ZombieSpawner
   zombiePrefab: {fileID: 2453375050694722472, guid: 8c4b8cc553f433048b156e69b769c9f1, type: 3}
+  stalkerPrefab: {fileID: 0}
+  batPrefab: {fileID: 0}
   spawnInterval: 5
   spawnOffset: {x: 0, y: -0.5}
   moveSpeed: 1
+  stalkerChance: 0.25
+  batChance: 0.2
 --- !u!4 &496271519
 Transform:
   m_ObjectHideFlags: 0
@@ -779,7 +783,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CameraFollow
   target: {fileID: 862112676}
   smoothSpeed: 0.125
-  offset: {x: 0, y: 0, z: 0}
 --- !u!1 &563817724
 GameObject:
   m_ObjectHideFlags: 0
@@ -818,10 +821,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Enemies: 0'
+  m_text: 'Enemies killed: 0'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1a6393fc6ce474f45ac808d8817a6434, type: 2}
+  m_sharedMaterial: {fileID: 5686005339455658193, guid: 1a6393fc6ce474f45ac808d8817a6434, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -914,7 +917,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 713, y: 466}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 400, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &605247657
 GameObject:
@@ -2150,6 +2153,54 @@ Transform:
   m_Children:
   - {fileID: 1763089328}
   - {fileID: 1211954178}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1430948836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1430948838}
+  - component: {fileID: 1430948837}
+  m_Layer: 0
+  m_Name: levelmanager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1430948837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430948836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c76c1dff8e25d234a8bbe7fc02f1a70d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LevelSetup
+  minX: 0
+  maxX: 30
+  minY: -10
+  maxY: 10
+--- !u!4 &1430948838
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430948836}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.65457, y: 6.55334, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1434410108
@@ -7623,3 +7674,4 @@ SceneRoots:
   - {fileID: 605247661}
   - {fileID: 157517794}
   - {fileID: 1135954577}
+  - {fileID: 1430948838}
