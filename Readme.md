@@ -104,4 +104,5 @@ v1.1
 👨‍💻 Autor
 
 Vytvořeno jako semestrální projekt / vlastní hra.
+
 Ondřej Lampa/Grok AI
