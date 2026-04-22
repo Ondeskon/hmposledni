@@ -2,7 +2,6 @@
 
 Temná 2D akční hra vytvořená v Unity, inspirovaná estetikou Haunted Mound. Hráč čelí mocnému bossovi v atmosférickém prostředí s důrazem na vizuální styl a plynulý souboj.
 
-Odkaz na video prezentaci: (Zde doplň svůj odkaz na YouTube, pokud máš)
 🎮 Gameplay
 Cíl hry
 
