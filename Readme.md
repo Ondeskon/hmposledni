@@ -66,6 +66,7 @@ project-root/
 ├── Assets/
 │   ├── Sprites/         # Hráč, Boss, Gothic Frame
 │   ├── Scripts/         # Boss.cs, HealthBar.cs, IntroManager.cs
+│   ├── Fonts/           # Fonty
 │   ├── Audio/           # Hudba a SFX
 │   └── Prefabs/         # WinningScreen, BossBarUI
 ├── ProjectSettings/
